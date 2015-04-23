@@ -1,0 +1,118 @@
+<head>
+  <title>Me Quedó en la Uni</title>
+</head>
+
+<body>
+	<section class="a">
+		<div align="center">
+			{{> ansQuestions}}
+		</div>
+	</section>
+
+  	<section class="b">
+  		<div align="center">
+  			{{> addQuestion}}
+  		</div>
+  	</section>
+
+  	<section class="a">
+  		<div align="center">
+  			{{> listQuestions}}
+  		</div>
+  	</section>
+
+</body>
+
+<template name="addQuestion"> 
+
+		<form id="addQuestionForm">
+			<table>
+				<tr>
+						<b>Pregunta</b><br/>
+						<textarea type="text" name="questionText" cols="140" rows="3"></textarea>
+				</tr>
+			</table>
+
+			<table>
+				<thead>
+					
+				</thead>
+				<tbody>
+					
+					<tr>
+						<td>
+							<b>a</b>
+							<input type="radio" name="ansCorr" value="1" checked>
+							<input type="text" name="answer1">
+						</td>
+						<td>
+							<b>b</b> 
+							<input type="radio" name="ansCorr" value="2" >
+							<input type="text" name="answer2">
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<b>c</b>
+							<input type="radio" name="ansCorr" value="3" >
+							<input type="text" name="answer3">
+						</td>
+						<td>
+							<b>d</b>
+							<input type="radio" name="ansCorr" value="4" >
+							<input type="text" name="answer4">
+						</td>
+					</tr>
+					
+					
+				</tbody>
+			</table>
+			<table>
+				<tr>
+						<td>
+							<b>Explicación</b><br/>
+							<textarea type="text" name="explanation" cols="140" rows="3"></textarea>
+						</td>
+					</tr>
+			</table>
+			<table>
+				<tr>
+					<td>
+						<b>Categoria</b><br/>
+						<select name="area">
+						  <option value="1">Area1</option>
+						  <option value="2">Area2</option>
+						  <option value="3">Area3</option>
+						  <option value="4">Area4</option>
+						</select>
+					</td>
+				</tr>
+				
+			</table>
+
+			<input type="submit" value="Add Question">
+
+		</form>
+
+</template>
+
+<template name="listQuestions"> 
+		<ul>
+			{{#each questionsList}}
+				<li > {{question}}:{{correctAnswer}}  <input type="button" class="remove btn btn-primary" value="Borrar"> </li>
+			{{/each}}
+		</ul>
+
+</template>
+
+
+<template name="ansQuestions"> 
+	<i>Área {{ getQuestion.area }}</i><br/>
+	<h2>{{ getQuestion.question }}</h2><br/>
+
+	<input type="button" class="answering btn btn-success" res="1" value="{{ getQuestion.answer1 }}">
+	<input type="button" class="answering btn btn-success" res="2" value="{{ getQuestion.answer2 }}">
+	<input type="button" class="answering btn btn-success" res="3" value="{{ getQuestion.answer3 }}">
+	<input type="button" class="answering btn btn-success" res="4" value="{{ getQuestion.answer4 }}">
+
+</template>

@@ -1,0 +1,10 @@
+/* CSS declarations go here */
+
+section.a{
+	height: 400px;
+	background-color: #E0E0E0; 
+}
+section.b{
+	height: 400px;
+	background-color: #888888; 
+}
