@@ -1,0 +1,10 @@
+<h1>Nueva Pregunta!</h1>
+<%=form_for @question do |f|%>
+	<%= f.text_field :question %>
+	<br>
+	<%=f.fields_for :answers do |f_answer|%>
+		Respuesta: <%=f_answer.text_field :answer%><br>
+	<%end%>
+	:D
+	<%= f.submit "Create" %>
+<%end%>

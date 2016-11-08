@@ -1,0 +1,13 @@
+
+<p><%=@random_question.question%></p>
+
+<ul>
+	<%@random_question.answers.each do |answer|%>
+		<li>
+			<%= radio_button_tag(:answer, answer.id,false,class: "answer_radio_button") %>
+			<%= label_tag(:my_answ, answer.answer) %>
+		</li>
+	<%end%>
+</ul>
+
+<%= link_to "Crear Pregunta", new_question_path()%>
