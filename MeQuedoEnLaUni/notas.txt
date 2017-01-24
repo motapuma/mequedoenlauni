@@ -1,0 +1,12 @@
+Sin Nada id= [1]
+Con parrafo id=[157]
+Con parrafo y postparrafo id=[171]
+Con table-figure id = [4]
+LATEX EN PARRAFO id = [189]
+
+ A muchas de quimica le falta poner el <lat></lat>
+
+ /*Oficial GREEN#43ac6a*/
+/*Oficial RED #f04124*/
+/*Oficial DIFUMINADO GREEN#83cf9f*/
+/*Oficial DIFUMINADO RED #f4715b*/

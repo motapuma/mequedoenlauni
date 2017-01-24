@@ -1,0 +1,42 @@
+<div class="row">
+	<div class="medium-4 columns medium-offset-4 medium-centered " >
+		<h2>Nueva Pregunta!</h2>
+	</div>
+</div>
+
+<div class="row">
+	<div class="medium-4 columns medium-centered " >
+		<%= @multiple_option_question.errors.full_messages.first if @multiple_option_question.errors.any? %>
+
+		<%=form_for(@multiple_option_question,data:{abide: ''}) do |f|%>
+			<div class="row">
+				<%= f.text_field :question,placeholder:"Pregunta",required:'' %>
+				<small class="error">Olvidaste escribir la Pregunta</small>
+			</div>
+			<div class="row">
+				<%= f.select :subject, Constants::UNAM_SUBJECTS.each_with_index.map{|ele,i| [ele,i]},prompt:"Tema",required:'' %>
+				<small class="error">Eligé el tema</small>
+			</div>
+
+			<%=f.fields_for :correct_answer do |f_answer|%>
+				<div class="row">
+					<%=f_answer.text_field :answer,placeholder:"Respuesta CORRECTA",class: "correctAnswerField",required:'' %>
+					<small class="error">Olvidaste escribir la Respuesta Correcta</small>
+				</div>
+			<%end%>
+			
+			<%=f.fields_for :multiple_option_answers do |f_answer|%>
+				<div class="row">
+					<%=f_answer.text_field :answer,placeholder:"Respuesta NO correcta",class: "incorrectAnswerField",required:'' %>
+					<small class="error">Olvidaste escribir esta Respuesta Incorrecta</small>
+				</div>
+			<%end%>
+
+			<div class="row">
+				<div class="medium-4 columns medium-offset-4 " >
+					<%= f.submit "Crear",class: "button success round" %>
+				</div>
+			</div>
+		<%end%>
+	</div>
+</div>

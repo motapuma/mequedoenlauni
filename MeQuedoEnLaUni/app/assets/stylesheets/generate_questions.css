@@ -1,0 +1,11 @@
+input.correctAnswerField{
+	border-style: solid;
+    border-color: #43ac6a;/*GREEN*/
+    border-width: 5px;
+}
+
+input.incorrectAnswerField{
+	border-style: solid;
+    border-color: #f04124;/*RED*/
+    border-width: 5px;
+}

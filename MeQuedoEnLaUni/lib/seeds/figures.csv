@@ -1,0 +1,186 @@
+id,type,text
+1,headers,Paises
+1,headers,Hemisferios
+1,1,I: India
+1,1,II: Angola
+1,1,III: Paraguay
+1,1,IV: Australia
+1,2,a. Boreal
+1,2,b.Austral
+1,2,"c. Oriental
+"
+1,2,d. Occidental
+2,1,"I. Alta alfabetización 
+"
+2,1,II. Alta deuda externa
+2,1,III. Alto alfabetismo
+2,1,IV. Bajo ingreso per cápita
+2,1,V. Actividades secundarias y terciarias
+3,1,"1. Autotrófos 
+"
+3,1,2. Heterótrofos
+3,2,a. Las cianobacterias utilizan agua como fuente de electrones para la fotosíntesis y producir oxígeno como producto residual 
+3,2,b. Las bacterias intestinales aprovechan una variedad de nutrientes orgánicos para sobrevivir y reproducirse rápidamente
+3,2,c. Las plantas utilizan energía lumínica para producir carbohidratos y oxígeno gaseoso a partir de bióxido de carbono y agua
+3,2,d. Una levadura alimentada por glucosa en un ambiente anaeróbico es capaz de producir bióxido de carbono y etanol
+4,1,1. Procariontas
+4,1,2. Eucariontas
+4,2,a. Tamaño de 1 a 10 micras
+4,2,b. Reproducción por mitosis 
+4,2,c. Comosomas múltiples
+4,2,d. DNA circular en el citoplasma
+5,1,1. Anabolismo
+5,1,2. Catabolismo
+5,2,"a. Construcción de moléculas orgánicas complejas
+"
+5,2,b. Degradación de moléculas orgánicas complejas
+5,2,c. Almidón-glucosa
+5,2,d. Aminoácidos-proteínas
+6,1,I: Presidencia de Vicente Guerrero
+6,1,II: Invasión de Isidro Barradas
+6,1,III: Imperio de Agustín de Iturbide
+6,1,IV: Primera administración de Antonio López de Santa Anna
+6,1,V: Presidencia de Guadalupe Victoria
+7,1,I. Antecedentes
+7,1,II. Etapa Maderista
+7,1,III. Etapa Constitucionalista
+7,1,IV. Reconstrucción Nacional
+7,2,a. Las huelgas y los partidos de oposición 
+7,2,b. El movimiento zapatista y ña decena trágica
+7,2,c. La Ley del 6 de enero y la Constitución de 1917
+7,2,d. Rebelión de Agua Prieta y Gobierno de Álvaro Obregón
+8,1,I: Creación del libro de texto gratuito
+8,1,II: Nacionalización de la Banca
+8,1,III: Reintegración del Chamizal a México
+8,1,IV: Moviminento estudiantil de 1960
+8,1,"V: Tratado de Tlatelolco
+"
+8,1,VI: Reparto de desayunos escolares y creación del INPI
+9,1,a. Movimiento estudiantil de 1968
+9,1,b. Creación del CONACyT
+9,1,"c. Tratado de Tlatelolco
+"
+9,1,d. Reforma a la Ley Orgánica del DDF
+9,1,"e. Expropiación de los yacimientos de hierro en las Truchas y plutonio de Michoacán 
+"
+9,1,f. Relaciones con la República Popular de China
+10,headers,Movimientos
+10,1,I. Ludismo
+10,1,II. Cartismo
+10,1,III. Cooperativismo
+10,1,IV. Socialismo Utópico
+10,1,"V. Socialismo Científico 
+"
+11,headers,Personajes
+11,"headers
+","Acontecimientos
+"
+11,1,I. Woodrow Wilson
+11,1,II. Nicolás II
+11,1,III. Paul Van Hinderburg
+11,1,IV. Francisco Fernando
+11,1,V. Vladimir Lenin
+11,2,"a. Encabezaba la Revolución de Octubre
+"
+11,2,b. Heredero del trono Austro-húngaro
+11,2,c. General alemán que derrotó a los rusos de Tannemberg
+11,2,d. Zar ruso que partició en la primera Guerra Mundial 
+11,2,e. Creó  un documento que constaba de 14 puntos.
+12,headers,Tratado de paz
+12,headers,Postulados
+12,1,"I. Tratado de Versalles
+"
+12,1,II. Tratado de Saint Germain
+12,1,III. Tratado de Neuilly
+12,1,IV. Tratado de Sevres
+12,1,V. Tratado de Trianon
+12,2,a. Reducción del ejército alemán y eliminación de la fuerza aérea alemana
+12,2,b. Desaparición del Imperio Otomano-Turco y firma del tratado de Lausana
+12,2,c. Prohibición de cualquier tipo de alianza con Alemania
+12,2,d. Desarme y reducción territorial de Bulgaria
+12,2,e. Reducción del territorio húngaro para beneficiar a Rumania
+13,headers,Acontecimientos
+13,1,I. La Revolución cubana
+13,1,II. La Independencia del Congo
+13,1,III. Conformación de la Unión Europea
+13,1,IV. La conquista del espacio
+13,1,V. Guerra del Golfo Pérsico 
+14,1,I. La ocupación de los países vencidos
+14,1,II. Las violaciones al Tratado de Versalles
+14,1,III. La formación del Eje Berlín-Roma-Tokio
+14,1,IV. La división de Alemania en cuatro zonas de ocupación
+14,1,V. La invasión de Abisinia por parte de Italia
+14,1,VI. El fracaso de la Sociedad de naciones
+15,headers,Fichas
+15,headers,Ejemplos de ficha
+15,1,I. Ficha bibliográfica
+15,1,II. Ficha hemerográfica
+15,1,III. Ficha de comentario
+15,1,IV. Ficha de cita textual
+15,2,"a. Díaz R., Regino (Dir.), Excélsior, El periódico de la vida nacional"
+15,2,"b. Clavel, E. et al., Iniciación al análisis de textos. Barcelona, Teide, 1984"
+15,2,"c. Franco, Dolores, 1980. ""Este es el panorama que se ofrece a la sensibilidad casi adolescente de una juventud que se asoma a la vida con los ojos abiertos y el corazón dolorido."" (pp. 218)"
+15,2,"d. Franco, Dolores, 1980. En las palabras de Dolores Franco , el pueblo español mostró una gran indiferencia por el desastre de 1898, se limitaba a hablar mal del gobierno y a insultar a los yankees."
+16,1,Azul de metileno
+16,1,Naranja de metilo
+16,1,Azul de bromo timol
+16,2,1.2 a 2.8
+16,2,4.4 a 4.8
+16,2,4.8 a 6.4
+16,3,Rojo - Amarillo
+16,3,Naranja - Rojo
+16,3,Amarillo - Rojo
+17,1,I. Interfase
+17,1,II. Fase M
+17,2,A. Profase
+17,2,B. G1
+17,2,C. Metafase
+17,2,D. S
+17,2,E. Anafase
+17,2,F. G2
+17,2,"G. Telofase
+"
+18,1,I. Expropiación petrolera
+18,1,II. Ley Federal del Trabajo 
+18,1,III. Comisión Nacional del Libro de Texto Gratuito
+18,1,IV. Transformación del PNR en PRM
+18,1,"V. Plan Sexenal 
+"
+19,1,I. Creación de la Comisión Nacional del Libro de Texto Gratuito
+19,1,II. Movimiento estudiantil de 1968
+19,1,III. Nacionalización de la industria eléctrica
+19,1,IV. Creación del Infonavit
+19,1,V. Tratados de Tlatelolco 
+19,1,VI. Tratado del Chamizal
+20, ,I. Juegos olímpicos de 1968 / Matanza de estudiantes en la Plaza de Tlatelolco 
+20,1,II. Firma de los Tratados de Tlatelolco
+20,1,"III. Nacionalización de la banca
+"
+20,1,IV. Desarrollo estabilizador 
+20,1,V. Nacionalización de la industria eléctrica
+21,1,I. Colisión
+21,1,II. Separación
+21,1,III. Transformante
+21,2,1. Australiana-Nazca
+21,2,2. África-Euroasiática
+21,2,3. Indoaustraliana-Euroasiática
+22,1,I. Centralización del poder en el Rey
+22,1,II. Igualdad de derechos y derechos naturales
+22,1,"III. El contrato social
+"
+22,1,IV. La diferenciación racial
+22,1,"V. Soberabía popular
+"
+23,1,I. Revolución Cubana
+23,1,II. Unión Europea
+23,1,III. Independencia del Congo
+23,1,"IV. Guerra del Golfo Pérsico
+"
+23,1,V. Carrera Espacial
+24,1,I. Bloques económicos
+24,1,II. Nacionalización de industrias
+24,1,III. Igualdad social
+24,1,IV. Mercados abiertos
+24,1,V. Homogeneidad cultural
+24,1,VI. Apertura de fronteras
+24,1,VII. Privatización 

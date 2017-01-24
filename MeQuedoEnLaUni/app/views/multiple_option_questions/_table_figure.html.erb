@@ -1,0 +1,33 @@
+<table>
+	<%unless (headers = data_json["headers"]).nil?  %>
+		<tr>
+			<% headers.each do |header| %>
+				<th><%=header%> </th>
+			<%end%>
+		</tr>
+	<%end%>
+	<% 
+
+		if ! data_json["headers"].nil?  
+			data_json.delete("headers")
+		end
+		total_columns = (data_json.keys).count
+		max_rows      = data_json.values.map{|e|e.count }.max
+	%>
+	<%max_rows.times do |i|%>
+			
+			<tr>
+				<%total_columns.times do |j|%>
+					<% 
+						key    = data_json.keys[j]
+						values = data_json[key]
+						value  = i < values.count ? values[i] : nil
+					%>
+
+					<td><%=value%></td>
+
+				<%end%>
+			</tr>
+		
+	<%end%>
+</table>

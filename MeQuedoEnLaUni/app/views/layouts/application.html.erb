@@ -1,15 +1,99 @@
 <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <title><%= content_for?(:title) ? yield(:title) : "#MeQuedoEnLaUni" %></title>
+
+  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => false %>
+  <%= javascript_include_tag "vendor/modernizr" %>
+  <%= javascript_include_tag "application", 'data-turbolinks-track' => false %>
+  <script type="text/x-mathjax-config">
+  MathJax.Hub.Config({tex2jax: {inlineMath: [['<lat>','</lat>'] ]}});
+  </script>
+  <script type="text/javascript" async src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+  </script>
+  <%= csrf_meta_tags %>
+  <%= include_gon %>
+</head>
+
+<body class="bg">
+  <nav class="top-bar" data-topbar role="navigation">
+    <ul class = "title-area">
+      <li class="name">
+        <h1><a href="/">#MeQuedoEnLaUni</a></h1>
+      </li>
+    </ul>
+    <section class="top-bar-section">
+      <ul class="right">
+        <% if user_signed_in? %>
+        <li>
+          <%= link_to('Cerrar Sesión', destroy_user_session_path, :method => :delete) %>        
+        </li>
+        <% else %>
+        <li>
+          <%= link_to('Iniciar Sesión', new_user_session_path)  %>  
+        </li>
+        <% end %>
+        <li>
+          <%= link_to "Agregar Preguntas", new_multiple_option_question_path()%>
+        </li>
+      </ul>
+    </section>
+  </nav>
+  <div class="row">
+    <div class="medium-4 medium-centered columns">
+      <p class="notice"><%= notice %></p>
+      <p class="alert"><%= alert %></p>
+    </div>
+  </div>
+  
+  
+  <%= yield %>
+  
+
+ <!--  <footer>
+    <div class="row wrap">
+      <div class="column">
+        <h4>Contact Info</h4>
+      </div>
+    </div>
+  </footer> -->
+</body>
+<!-- <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1867785123497465',
+      xfbml      : true,
+      version    : 'v2.6'
+    });
+  };
+  //FB.AppEvents.logPageView();    
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+</script>-->
+</html>
+
+<!--
+<!DOCTYPE html>
 <html>
 <head>
   <title>MeQuedoEnLaUni</title>
-  <%= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
-  <%= javascript_include_tag "application", "data-turbolinks-track" => true %>
+  <%#= stylesheet_link_tag    "application", media: "all", "data-turbolinks-track" => true %>
+  <%#= javascript_include_tag "application", "data-turbolinks-track" => true %>
   <%= csrf_meta_tags %>
   <%= include_gon %>
 </head>
 <body>
 
-<%= yield %>
+<%#= yield %>
 
 </body>
-</html>
+</html>-->

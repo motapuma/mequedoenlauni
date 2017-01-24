@@ -1,0 +1,53 @@
+.bg1{
+	background: lightblue;
+}
+.bg2{
+	background: lightpink;
+}
+.bg3{
+	background: lightgreen;
+}
+.bg{
+	background-image: asset-data-url("cork-wallet.png");
+}
+.bg-white{
+	background-image: white;
+}
+
+.whiteBackground{
+	background: white;
+}
+
+button.mqeluAnswerButton:hover{
+	color:black;
+	background-color: #F0F8FF;
+}
+
+button.mqeluAnswerButton{
+	color:black;
+	background-color: white;
+	border: 2px solid #e7e7e7;
+}
+
+button.mqeluIncorrectAnswerButton{
+	background-color: #f04124;/*RED*/
+}
+button.mqeluCorrectAnswerButton{
+	background-color: #43ac6a;/*GREEN*/
+}
+.whiteHeader{
+	color:white;
+}
+
+.mqeluCentered{
+	text-align: center;
+}
+.alert{
+	color:#f04124;
+}
+p.notice{
+	color:#43ac6a;
+}
+.facebookButton{
+	background-color:#3b5998;
+}

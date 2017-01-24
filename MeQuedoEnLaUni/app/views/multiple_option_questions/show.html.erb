@@ -1,0 +1,69 @@
+<section>
+	<div class="row">
+		<!--<div class="medium-4 columns" style="background: lightblue">1</div>-->
+		<div class="medium-10 columns medium-offset-1 " >
+			
+			<h3><%=@multiple_option_question.question%></h3>
+
+			<%if @multiple_option_question.paragraph %>
+				<div class="row">
+					<div class="medium-6 columns medium-offset-3 whiteBackground">
+						<h5><%=@multiple_option_question.paragraph.paragraph%></h5>
+					</div>
+				</div>
+				<%if @multiple_option_question.paragraph %>
+					<h3><%=@multiple_option_question.paragraph.post_paragraph%></h3>
+				<%end%>
+			<%end%>
+
+			<%if @multiple_option_question.question_table_figure %>
+				<%= render 'table_figure', data_json: @data_json %>
+			<%end%>
+			
+
+
+		</div>
+		<!--<div class="medium-4 columns" style="background: lightgreen">2</div>-->
+	</div>
+	<div class="row">
+		<div class="medium-12 columns " >
+			<%@multiple_option_question.multiple_option_answers.each do |multiple_option_answer|%>
+			<div class="row">
+				<div class="medium-12 columns " >
+					<%#= radio_button_tag(:multiple_option_answer, multiple_option_answer.id,false,class: "answer_radio_button hide") %>
+					<%#= label_tag(:my_answer, multiple_option_answer.answer) %>
+					<!--<button class="button expand round answerButtonJQ" value="2"><%#=multiple_option_answer.answer%></button>-->
+					<%=button_tag(multiple_option_answer.answer,class: "expand answerButtonJQ mqeluAnswerButton",value: multiple_option_answer.id) %>
+
+				</div>
+			</div>
+			<%end%>
+			<div data-alert class="alert-box success alertCorrect mqeluCentered">
+				<h4 class="whiteHeader">¡Bien Contestado!</h4>
+				<!--<a href="#" class= "close">&times</a>-->
+			</div>
+			<div data-alert class="alert-box alert alertIncorrect mqeluCentered">
+				<h4 class="whiteHeader">¡Intenta de nuevo!</h4>
+				<!-- <a href="#" class= "close">&times</a> -->
+			</div>
+		</div>
+	</div>
+
+
+	<div class="row">
+		<div class="medium-2 medium-centered columns  ">
+			<div id= "indicatorContainer">
+			</div>
+		</div>
+	</div>
+	<div class="row">
+		<div class="medium-2 medium-centered columns ">
+			<span id="correctQuestions"></span> correctas de <span id="totalQuestions">. </span>
+		</div>
+	</div>
+	
+
+
+</section>
+
+<!--<%#= link_to "Crear Pregunta", new_multiple_option_question_path()%>-->

@@ -1,0 +1,62 @@
+<%= form_for(resource, as: resource_name, url: session_path(resource_name)) do |f| %>
+<div class="row">
+  <div class="medium-6 medium-centered columns">
+    <div class="field">
+      <%= f.label :email %><br />
+      <%= f.email_field :email, autofocus: true %>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="medium-6 medium-centered columns">
+    <div class="field">
+      <%= f.label :password, "Contraseña" %><br />
+      <%= f.password_field :password, autocomplete: "off" %>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="medium-6 medium-centered columns">
+    <% if devise_mapping.rememberable? -%>
+    <div class="field">
+      <%= f.check_box :remember_me %>
+      <%= f.label :remember_me, "Recordarme" %>
+    </div>
+    <% end -%>
+  </div>
+</div>
+
+<div class="row">
+  <div class="medium-6 medium-centered columns">
+    <div class="row">
+      <div class="medium-5 medium-offset-7 columns">
+        <div class="clearfix">
+          <button class:"default right">
+            Iniciar Sesión
+          </button>
+        </div>
+      </div>
+    </div>  
+  </div>
+</div>
+<% end %>
+<div class="row">
+  <div class="medium-6 medium-centered columns">
+    <div class="row">
+      <div class="medium-7 medium-offset-5 columns">
+        <div class="clearfix">
+          <%= link_to "Inciar Sesión Facebook", user_omniauth_authorize_path(:facebook),class: "button facebookButton right" %>
+        </div>
+      </div>
+    </div>
+    
+    <%#= link_to "Sign in with Facebook", user_omniauth_authorize_path(:facebook) %>
+    <!--<fb:login-button scope="public_profile,email" onlogin="checkLoginState();">
+    </fb:login-button>-->
+  </div>
+</div>
+<div class="row">
+  <div class="medium-6 medium-centered columns">
+    <%= render "devise/shared/links" %>
+  </div>
+</div>

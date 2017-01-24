@@ -1,0 +1,464 @@
+id,question,answer1,answer2,answer3,answer4,correct_answer,figure,paragraph,subject
+1, La Geografía se concibe como la disciplina que se relaciona con las ciencias...,humanísticas y sociales,físicas y naturales,económicas y sociales,sociales y naturales,4,,,1
+2," De los siguientes enunciados, ¿cuál describe correctamente la posición geográfica de México?",El Hemisferio Meridional Occidental,El Hemisferio Sur Oriental,El Hemisfermio Septentrional Oriental,El Hemisferio Norte Occidental,4,,,1
+3,La Geografía es la ciencia que estudia la interrelación entre los factores...,"biológicos, físicos y humanos","biológicos, geográficos y humanos","movimiento, tierra y naturaleza","biológicos, químicos y físicos",1,,,1
+4,Relaciona los siguientes países con los hemisferios que les corresponden ,"I: b, c - II: a, d - III: a, c - IV: b, d","I: b, d - II: a, d - III: a, c - IV: a, d","I: a, d - II: b, c - III: b, c - IV: a, c","I: a, c - II: b, c - III: b, d - IV: b, c",4,1,,1
+5,¿Qué regiones de nuestro planeta atraviesa el trópico de Capricornio?,"Madagascar, Oceania y Alaska","Europa, Asia y Sudamérica Septentrional","América del Sur, el sur de África y Oceanía","Sudáfrica, el océano Pacífico y México",3,,,1
+6,¿Qué países pertenecen a la Unión Europea?,Bélgica y Portugal,España y Noruega,Turquía y Francia,España e Islandia,1,,,1
+7,"Si en Baja California Sur son las 5:00 a.m., ¿qué hora será en España y Marruecos que están a 7 husos horarios a la derecha?",5:00 a.m.,12 p.m.,7:00 de la noche ,9:00 de la mañana,2,,,1
+8,¿En qué tratados comerciales está incluido México? ,Asia-Pacífico (APEC)/Tratado de Libre Comercio de América del Norte (TLCAN),Unión Europea (EU)/Tratado de Libre Comercio de América del Norte (TLCAN),MERCOSUR/Tratado de Libre Comercio (TLCS),Acuerdo Estratégico Transpacífico de Asociación Económica (AETAE)/MERCOSUR,1,,,1
+9,¿Qué incisos muestran características de países subdesarrollados?,"I, III, V","I, II, V","I, II, IV","III, IV, V",3,2,,1
+10,"El relieve es formado y modificado por medio de los deslizamientos internos de las placas tectónicas, ¿qué placa realiza la mayor actividad sísmica en el mundo?",Norteamérica,Euroasíatica,Pacífico,Cocos,3,,,1
+11,¿Cuál es el sistema montañoso que divide Europa de Asia?,Rocallosas,"Himalaya
+",Balcanes,Urales,4,,,1
+12,¿Cuáles son los estados que representan la zona sísmica más intensa de nuestro país?,"Hidalgo, Jalisco, Yucatán, Quintana Roo","Yucatán, Chiapas, Nuevo León y Chihuahua ",Penínsulas de Yucatán y Baja California,"Michoacán, Jalisco, Guerrero y Oaxaca
+",4,,,1
+13,Debido al choque de la placa _________ con la placa ______________ se encuetran restos de fósiles en los Himalaya,Pacífico/Norteamericana,Cocos/África,Euroasiática/Indoaustraliana,De la Rivera/Cocos,3,,,1
+14,"El clima de la jungla de Bengala, India; del Amazonas en Sudamérica, o del Congo africano, es de tipo Af. Asimismo, estos lugares son regiones naturales que se caracterizan por tener la mayor insolación  y humedad del planeta, y en donde se explotan maderas de alyo valor comercial, como la caoba y el ébano. ¿A qué región natural y clima se refiere el texto anterior?",La selva y el clima tropical con lluvias todo el año ,El bosque tropical y clima mixto: tropical y templado ,La sabana y clima tropical lluvioso en verano,El bosque y clima con lluvias monzónicas,1,,,1
+15,"¿Que tipo de paisaje narual es representativo en regiones como Europa meridional, China septentrional y Escandinavia? ",El desierto,Las estapas,Los paisajes boreales ,El bosque templado ,4,,,1
+16,"El efecto invernadero es un fenómeno atmosférico natural que permite mantener la temperatura promedio del planeta al retener parte de la energía solar, pero que, en presencia de los cloroflurocarbonaros y otros contaminantes, suscita un calentamiento  anormal al impedir que se libere el calor atmosférico. Dos de las consecuencias que el  efecto invernadero puede generar en el cambio climatico global son:",disminución del nivel del mar y aumento de temperatura,contaminación de océanos y disminución de temperatura,"severas inundaciones y aumento de temperatura
+",climas fríos en el ecuador y disminución del nivel del mar ,3,,,1
+17,La doctrina _________ es característica de los países ________,capitalista/subdesarrollados,socialista/desarrollados,"neoliberal/desarrollados
+",socialista/subdesarrollado,3,,,1
+18,"En las mesetas, su densidad de población es _____, y su principal activdiad económica es la __________",alta/agricultura,media/agricultura,"media/ganadería
+",alta/ganadería,3,,,1
+19,"Los ciclones son vientos que giran alrededor de una zona de baja presión concentrando nuves, lluvias y vientos intensos; se forman en el mar y avanzan hacia las costas y, dependiendo la velocidad de sus vientos, se clasifican normalmente en depresión tropical, tormenta tropical y huracán. ¿Qué región de la República Mexicana es mayormente afectada por las tormentas y huracanes?",Golfo de México: Veracruz y Tabasco,Costas del mar Caribe: Yucatán y Quintana Roo,Océano Pacífico sur: Guerrero y Oaxaca,Costas del Golgo de México: de Tamaulipas hasta Yucatán ,1,,,1
+20,"En 1929 varios reinos se unieron para formar Yugoslavia. Sin embargo, a partir de 1991 comienza su desintegración debido a la independencia de las antiguas repúblicas federativas que la constituían, tales como Eslovenia, _________ y ___________
+",Croacia y Macedonia,Albania y Hungría,Croacia y Armenia,Estonia y Letonia ,1,,,1
+21,"La descolonización de África inició con la independecia de Ghana en 1957; le siguieron estados como Túnez, Marruecos, Nigeria, Somalia entre otros. Este proceso de independencia africana de países europeos finaliza con las problemáticas independencias del Congo en 1960, de _______ y _______ en 1975.",Egipto y Madagascar,Sáhara Occidental y Angola,Angola y Mozambique ,Mozambique y Egipto,3,,,1
+22,¿Cuál de los siguientes países se encuentra más al Norte?,Sudán ,Nigeria,Túnez,Egipto,3,,,1
+23,¿De dónde sacan los países continentales sus recursos del agua potable?,Precipitación,Condensación,Infiltración,Escorrentía,1,,,1
+24,Placas tectónicas que forman el Sistema Montañoso del Himalaya,La placa indostatica y placa euroasiática,La placa indostática y Asiática,La placa australiana y la placa hindú,La placa de Nazca y la placa euroasiática,1,,,1
+25,¿Cómo se forma la Cordillera del Himalaya?,Por la divergencia de la placa euopa y asiática,"Por el choque de la placa hindú, con la euroasiática",Por la separación de la placa hindú con la euroasiática,Por la transformación de la placa hindú y australiana,2,,,1
+26,"Países que tienen bajo indice de natalidad, y alto indice de migración",Países subdesarrollados,Países en vías de desarrollo,Países desarrollados,Países de cuarto mundo,3,,,1
+27,"¿En qué zona se tiene un bajo índice de natalidad, y alto índice de inmigración?",Centro de Asia,Sureste de Asia,América Latina,Oeste de Europa,4,,,1
+28,¿Qué caracteriza un país desarrollado?,Alta esperanza de vida y elevado alfabetismo,Alta natalidad y elevado analfabetismo,Bajo PIB y elevada esperanza de vida,Baja esperanza de vida y elevado PIB,1,,,1
+29,¿Quién dirige la globalización?,Las empresas transnacionales,El estado,El pueblo ,Las comunicaciones,1,,,1
+30,"Indica el orden de Norte a Sur, de los siguientes estados: Zacatecas, Coahuila, Tlaxcala, Guanajuato","Zacatecas, Coahuila, Tlaxcala, Guanajuato","Coahuila, Zacatecas, Guanajuato y Tlaxcala","Tlaxcala, Guanajuato, Zacatecas y Coahuila","Coahuila, Zacatecas, Tlaxcala y Guanajuato",2,,,1
+31,¿A qué bloque económico pertence Brasil y Colombia?,TLC,UE,"Mercosur
+",Asociación de Países del Pacífico,3,,,1
+32,Los países de Medio Oriente son productores principalmente de:,Petróleo,Gas Natural,"Metano
+",Carbón,1,,,1
+33,Clima en Ottawa,Tropical,Húmedo,Templado,"Frío
+",1,,,1
+34,Placa más grande de la Tierra:,Pacífico,Nazca,Antártica,Norteamericana ,1,,,1
+35,Zona donde se asienta el sector comerciante:,Bosques templados ,Llanuras pobladas,Zonas con alto índice de natalidad,Mesetas,2,,,1
+36,Son países de primer Mundo:,"EU, Sri Lanka, Tanzania","EU, Filipinas, Japón","Alemania, México, Sudáfrica","EU, Alemania, Japón",4,,,1
+37,Mediante este proceso se obtiene agua dulce en tierras continentales:,Condensación,Precipitación,Lixvación,Evaporación,4,,,1
+38,Principales ciudades petroquímicas en México ,"Salamanca, Tula, Poza Rica","Tula, Taxco, Zacatecas","Campeche, Guanajuato, Mérida","Cananea, Veracruz, Guerrero Negro",1,,,1
+39,¿A qué se debe que existen fósiles marinos en el Himalaya?,I - 2,III - 2,I - 3,II - 1 ,3,21,,1
+40,La globalización es un sistema que esta dominado por países:,Regional desarrollado,Neoliberal desarrollado,Regional en desarrollado,Neoliberal en desarrollo,2,,,1
+41,Indicadores poblacionales de Europa Occidental:,"Bajo índice de natalidad, elevado analfabetismo, alta calidad de vida","Alto índice de natalidad, elevado analfabetismo, baja calidad de vida","Alto índice de natalidad, bajo analfabetismo, alta calidad de vida","Bajo índice de natalidad, alto analfabetismo, baja calidad de vida",1,,,1
+42,Placa tectónica que influye en el movimiento sísmico de Guerrero: ,Nazca,Sudamericana,Cocos,Caribe,3,,,1
+43,La taiga se ubica:,Europa,Sudamericana,Canadá,Nueva Zelanda,3,,,1
+44,Placa tectónica de mayor riesgo sísmico: ,Sudamerica,Nazca,Pacífico,Antártica,3,,,1
+45,¿A qué se debe el establecimiento de la población en el oriente de Asia?,Clima monzónico y cultivo de arroz,Clima tropical y cultivo de soya,Clima templado y cultivo cebada,Clima seco y cultivo de sorgo,1,,,1
+46,Política adoptada en la globalización de los países desarrollados:,Neoliberalismo,Socialismo,Anarquismos,Comunismo,1,,,1
+47,¿Qué países forman parte de la UE?,"Bélguca, Lituania, Rusia","Bélgica, Portugal, Irlanda","España, Portugal, Andorra","Inglaterra, Dinamarca, Bielorrusia",2,,,1
+48,Zona de mayor sismicidad en México:,Zona sur,"Zona sureste
+",Zona suroeste,Zona noroeste,3,,,1
+49,Estado de mayor producción de atún,Baja California Norte,"Veracruz
+",Sonora,Sinaloa,1,,,1
+50,"Rama de la geografía que se encarga de estudiar el clima, el relieve y la vegetación: ",Geografía humana,Geografía física,Geografía ecológica,Geografía económica,2,,,1
+51,¿A qué país emigra la población turca?,España,Rusia,Alemania,Grecia,3,,,1
+52,"¿En que contienente se encuentras las Rocallosas?
+",Sudamerica,Europa,Asia,Norteamérica,4,,,1
+53,Beneficio económico de los países emisores de la inmigración:,Cultural,Bolsa de trabajo,"Mano de obra barata
+",Obtención de PIB,3,,,1
+54,¿Qué es la geografía?,"Estudia la interacción entre aspectos físicos, biológicos y humanos",Estudio de la Tierra,"Descripciónn a la interacción entre aspectos físicos, biológicos y humanos",Se divide en Geografía Física y Geografía Humana,3,,,1
+55,Estados petroleros de México ,Veracruz y Tamaulipas,Puebla y Tlaxcala,Quintana Roo y Yucatán,Campeche y Puebla,1,,,1
+56,Características de la globalización,Aperturas económicas,Bloques económicos,"Hegemonia cultural
+",Fusión de capital de estado,1,,,1
+57,"Argentina, Uruguay y Brasil encabezan el bloque económico",TLCAN,MERCOSUR,UEE,Tigres asiáticos,2,,,1
+58,¿De dónde proviene el agua dulce los desiertos?,Humedad,Ríos,Lagos ,Mantos freáticos,4,,,1
+59,Ubicación de los Alpes,Latitud 45º N,Latitud 60º S,Latitud 75º N ,Latitud 23º N,1,,,1
+60,"Realciona los organismos autótrofos y heterótrofos con los ejemplos que corresponden 
+","1b, c - 2a, d","1a, c - 2b, d
+","1a, b - 2c, d ","1b, d - 2a, c ",2,3,,3
+61,Relaciona las células procariontas y eucariontas con sus características,"1a, c - 2b, d","1b, d - 2a, c","1b, c - 2a, d","1a, d- 2b, c",4,4,,3
+62,En la fotosíntesis se rompe una molécula de H_{2}O para producir inicialmente,Glucosa,Monóxido de carbono ,Oxígeno,Dióxido de carbono ,1,,,3
+63,"Durante el proceso anaérobico de fermentación _________ el ácido pirúvico cambia a etanol y bióxido de carbono. De modo similar, una disminución de oxigeno en los músculos durante el ejercicio ocasiona fatiga, debido  a la acumulación de ácido láctico producto de la fermentación __________",Láctica-alcohólica,Alcohólica-láctica,Alcohólica-acética,Acética-láctica,2,,,3
+64,"¿Qué proceso se lleva a cavo en la fase G1 de la interfase?
+",Supresión de ADN dañado,Formación de replicones,Diferenciación de replicones,Crecimiento celular,4,,,3
+65,Una consecuencia de la meiosis es la:,"Especiación biológica
+",Selección secual,Adaptación funcional ,Variación genética,4,,,3
+66,"Durante la meiosis, cuando dos elementos de cada par de cromosomas homólogos se separan, los pares de genes se ubican en diferentes gametos. Como resultado, algunos inviduos pueden transmitir un caracter determinado, aunque ellos no los manifiesten. Esto se conoce como la ley...",de uniformidad,de la combinación independiente,de segregación,del recesivo,3,,,3
+67,Los plásmidos son:,moléculas energéticas,material genética extracromosomal que se localiza en el citoplasma de las bacterias,organelos que se localizan únicamente en las células vegetales,fracciones cromosómicas de una célula vegetal,2,,,3
+68,A un individuo que posee alelos idénticos para un caracter se le conoce como:,heterocigoto,haploide,homocigoto,diploide,3,,,3
+69,Reino de la naturaleza formado por células procariotas,Monera,Fungi,Plantae,Animalia,1,,,3
+70,Se conoce como especie endémica a aquella,que tiene individuos que le representan en dos o más zonas biogeográficas,que se encuentran solo en determinada región de la biosfera,"cuyo hábitat es cosmopolita y, por lo tanto, puede encontrarse en cualquier lugar de la biosfera",que se refiere a especies marinas,2,,,3
+71,En una cadena trófica ocurre,transformación de energía,creación de nueva energía,destrucción de energía ,almacenamiento de energía,1,,,3
+72,Relaciona los procesos de anabolismo y catabolismo como los ejeplos correspondientes,"1a, d - 2b, c","1b, c - 2a, d ","1a, b - 1c, d","1c, d - 1a, b ",1,5,,3
+73,"_______ propuso que los cambios ambientales provocan modificaciones adaptativas en los organismos, los cuales son transmitidas a los descendientes",Buffon,Cuvier,Lamarck,Darwin,4,,,3
+74,Para Darwin y Wallace el mecanismo evolutivo de mayor importancia es la: ,adaptación ,mutación,endogamia,selección natural,1,,,3
+75,Unidad natura de factores vivos y no vivos que interactúan de manera cíclica y estable se define como:,Población,Bioma,Hábitat,Ecosistema,4,,,3
+76,_________ y __________ son factores independientes de la densidad que limitan el crecimiento de una población ,Alimento limitado - conductores predatorias,Alimeto limitado - luz,Temperatura - conductas predatorias,Temperatura - luz,1,,,3
+77,"¿Cúal es la causa de que el CO_{2} sea un agente contaminante en la Ciudad de México 
+",El uso de fertilizantes,La descomposición de residuos sólidos,El uso de pinturas,La quema de combustibles fósiles,4,,,3
+78,"A través de los ciclos biogeoquímicos, el bióxido de carbono y el agua se mueven hacia los productores acúaticos y terrestres para llevar a cabo:",Homeostasis,Descomposición, Fotosíntesis,Respiración,3,,,3
+79,Autor que afirmo que todos los animales están formados por células,Schleiden,Virchow,Schwan,Purkinje,3,,,3
+80,El _____ es la primera fuente de energía metabólica para los seres vivos ,"ADN
+",GTP,ATP,ARN,3,,,3
+81,La sacarosa resulta de la unión de los monosacáridos,Glucosa + glucosa,Glucosa + galactosa,Glucosa + fructuosa,Glucosa + ribosa,3,,,3
+82,"El reino que comprende a los seres más sencillos, unicelulares, procariotas y comprende a las cianobacterias y bacterias, se denominan:",Protista,Monera,Fungi,Vegetal,2,,,3
+83,Concepto biológoco de especie,organismos similares que se cruzan entre sí y tienen descendencia fértil ,"organismos de especies diferentes, que se cruzan entre si", ornanismos iguales que no producen descendencia fértil ,organismos similares que se cruzan entre si y carecen de descendencia fértil,1,,,3
+84,"Tras la glucolisis se producen dos moléculas de ácido pirúvico, que deben ser químicamente transformadas a _______ antes de que ingresen al ciclo de Krebs ",FADH,NAD,NADH,Acetil Co-A,4,,,3
+85,"La mitosis se ha dividido en fases, ¿cuál es la secuencia correcta?","Profase, metafase, anafase, telofase","Telofase, anafase, metafase, profase","Metafase, anafase, telofase, profase","Profase, telofase, anafase, metafase",1,,,3
+86,La información genética del ácido desoxiribonucleico está en:,El número de nucleótidos,Secuencia de las bases, Posición del azúcar,Grupo fosfato,2,,,3
+87,La rama de la biología que se encarga de la clasificación de los seres vivos,Citología,Taxonomía,Botánica,Fisiología,2,,,3
+88,¿Qué postulado es correcto para la Teoría de Lamarck?,Los órganos que se utilizan se desarrollan,Los órganos que no se utilizan se desarrollan,Los órganos que se utilizan se mutan,Los órganos que se utilizan se degeneran,1,,,3
+89,¿Qué reino tiene célula procarionte?,Fungi,Animalia,Plantae,Monera,4,,,3
+90,Principal molécula energética de los seres vivos,ADP,ATP,ADN,ARN,2,,,3
+91,¿Cómo se da la evolución?,Coevolución,Extinción,Mutaciones aleatorias,Exterminación,3,,,3
+92,Ciclo biogeoquímico relacionado con la síntesis de nucleótidos,Fósforo,Carbono,Nitrógeno,Azufre,2,,,3
+93,¿Qué tipo de enlace presentan las proteínas?,Peptídicos,"Glucosídico
+","Puentes de hidrógeno
+",Metálico,1,,,3
+94,¿Qué característca permite la variabilidad en las especies?,Clonación,Recombinación genética,Adaptación,Selección ,2,,,3
+95,"Las levaduras se reproducen por fisión binaria, esto quiere decir que:",Hay variabilidad genética,Las hijas son iguales,Hay abundante recombinación,Las hijas son diferentes,2,,,3
+96,Son dos especies diferentes que conviven en el mismo lugar y dependen una de otra,Comensalismo,Depredación,Digestión,Simbiontes,4,,,3
+97,"Cuando entra Acetil Coenzima A, ¿qué se genera por la descarboxilación del Ciclo de Krebs?",CO_{2} ,O_{2} ,NADPH,Glucosa,1,,,3
+98,Es la rama de la biología que se encarga de la organización de los seres vivos por género y especie,Ecología,Biogeografía,Taxonomía,Evolución,3,,,3
+99,Relaciona las etapas del ciclo celular,"I: A, B, D, F y II: A, C, E, G","I: A, C, F, G y II: B, D, F","I: B, D, F, G y II: A, B, C, E","I: B, D, F y II: A, C, E, G",4,17,,3
+100,"Si el ADN de Escherichia coli se combina con ADN humano pata producir insulina, se de un proceso de:",ADN recombinante,Mutación,ARN nuclear,Clonación,1,,,3
+101,Tipo de reproducción para regenerar tejidos de desgaste rápido cono la piel y el cabello,Meiosis,Regeneración,Mitosis,Gemación,3,,,3
+102,¿Qué conforma una proteína?,Nucleótidos,Bases nitrogenadas,Monómeros,Aminoácidos,4,,,3
+103,¿Qué permite que las poblaciones humanas se puedan reproducir?,Equilibrio de recursos naturales,Desarrollo económico,Desarrollo tecnológico,Equilibrio cultural,1,,,3
+104,Función del ADN,Energética,Estructural,Formar y guardar información en cromosomas,Enzimática,3,,,3
+105,"¿De qué está conformado el ADN?
+","Adenina, Desoxirribosa, Grupo fosfato","Grupo fosfato, azúcar y base nitrogenada","Adenina, azúcar y base nitrogenada","Grupo fosfato, azúcar y desoxirribosa",2,,,3
+106,¿Qué reinos están formados por células eucariontes?,"Monera, protista, animalia y plantae","Protista, animalia, plantae y fungi","Monera, animalia, plantae y fungi
+","Protista, plantae, monera y fungi",2,,,3
+107,La glucosa es:,Carbohidrato de 6 carbonos,Carbohidratos de 12 carbonos,Proteína de 6 carbonos,Lípido de 6 carbonos,1,,,3
+108,Etapa de no división celular,Mitosis,Meiosis,Interfase,Citocinesis,3,,,3
+109,La evolución se da de forma:,Espontánea,Por adaptación al ambiante,Por mutaciones aleatorias,Por uso y desuso de las partes,3,,,3
+110,¿Qué macromolécula está formada por una base nitrogenada y un grupo fosfato?,Nucleótido,Aminoácido,"ARN
+",Nucleósido,4,,,3
+111,Diferencias entre célula vegetal y animal,Cloroplasto y pared celular,Membrana y centriolos,Membrana y ribosomas,Núcleo y ADN,1,,,3
+112,Enzima precursora del Ciclo de Krebs:,Acetil Coenzima A,Piruvato,Agua,Lactato deshidrogenasa,1,,,3
+113,Proceso anaerobio donde se destruye la glucosa,Gluconeogénesis,Glucólisis,Respiración anaeronia,Respiración aerobia,2,,,3
+114,Organismos de la misma especia que conviven en un mismo entorno:,Ecosistema,Comunidad,Simbiontes,Población,4,,,3
+115,¿Qué tipo de células produce la mitosis?,Haploides,Células gaméticas,Diploides,Coacervados,3,,,3
+116,Proceso de formar sustancias complejas a partir de simples,Metabolismo,Anabolismo,Catabolismo,Amensalismo,2,,,3
+117,Tipo de reproducción que favorece la variabilidad biológica,Sexual,Asexual,Fragmentación,Fisión binaria,1,,,3
+118,Base nitrogenada exclusiva del ARN,Timina,Uracilo,Guanina,Adenina,2,,,3
+119,"Las Reformas Borbónicas en la Nueva España hicieron posible el desarrollo y comercialización entre España y sus colonias, lo cual permitió","facilitar la entrada y salida de recursos a las colonias, permitir la gobernabilidad locar y disminuir la recaudación","aumentar la recaudación a la Corona, reducir el poder de los grupos locales y retomar el control político, económico y militar",incrementar la entrada de los esclavos provenientes de otras colonias españolas que propiciaban el crecimiento económico,"explotar los recursos naturales como la madera y la minería entre otros, y permitir el crecimiento de la economía local",2,,,9
+120,Es la forma de división política del territorio de la nueva españa impuesta por las Reformas Borbónicas,"Municipios
+",Reinos ,Estados,Intendencias,4,,,9
+121,"¿Cuántas intendencias hubo en el virreinato y cuál era su función?
+","11- Limitar el poder del virrey
+",12- Incrementar el ingreso de la Colonia,12- La división territorial,11- Incrementar los ingresos de los criollos,2,,,9
+122,Causas externas de la indepencia de la Nueva España,El gobierno de Jorge III y el apoyo de la Revolución Francesa,Las revoluciones liberales en Europa y la Guerra de los 7 años,La independencia de las Trece Colonias Inglesas de Norteamérica y ñas ideas de la Ilustración,El sentimiento nacionalista criollo y la revolución de Riego,3,,,9
+123,Una de las causas internas de la independecia de la Nueva España fue que los:,penisulares fueron despojados de sus riquezas,mestizos comerciantes pagaban impuestos justos,grupos marginados lograron una movilidad social ,los criollos sufrían una gran relegación,4,,,9
+124,"Después de la independencia de la Nueva España, _________ intentó retomar el control del país con la invasión de _________",España-Barradas,Francia-Forey,Estados Unidos-Pershing,Inglterra-Raleght,1,,,9
+125,Primera forma de gobierno que se estableción en el México independiente,Dictadura,República federal,Monarquía,Imperio,4,,,9
+126,"Ordena cronológicamente los siguientes acontecimientos históricos:
+","IV, II, I, III y V","III, V, I, II y IV","V, IV, III, II y I","I, III, IV, V y II",2,6,,9
+127,El Plan de Ayutla pronunciado el 1 de Marzo de 1854 tuvo como finalidad:,proponer la intervención de Estados Unidos en asustos de México,fortalecer el centralismo político ,"desarraigar definitivamente el poder de Antonio López de Santa Anna
+",enfrentar la intervención militar de Francia en México ,3,,,9
+128,Con los gobiernos surgidos con la revolución de Ayutla se establecieron los:,conceptos conservadores de gobierno,principios de la teocracia liberal,principios de la monarquía,principios liberales en el gobierno,4,,,9
+129,Filosofía política que sustentó al gobierno de Porfirio Diaz:,Positivismo,Socialismo,Anarquismo,Regalismo,1,,,9
+130,País cuya cultura tuvo gran influencia en el Porfiriato,Alemania,Inglaterra,España,Francia,4,,,9
+131,Menciona las características de las diferentes etapas de la Revolución Mexicana,"I-d, II-a, III-c ,IV-b","I-d, II-b, III-c, IV-a","I-b, II-c, III-a, IV-d","I-a, II-b, III-c, IV-d",4,7,,9
+132,"La Constitución de 1917 tuvo consecuencias en la política exterior, pues en su artículo 27 establecía que lso recuersos naturales del subsuelo mexicano eras propiedad de la nación y: ","quedaba instaurado el pago de salarios mínimos, jornadas máximo de trabajo, seguridad para los trabajadores y eliminación del trabajo infantil","reconocía la supremacía del Estado sobre la Iglesia, con lo que se quitaba a esta sus fueros y la deslindaba de los asuntos políticos de la nación ","que la educación básica sería pública; la que se impartiera en las instituciones del Estado sería gratuita, y tanto en estas como en las particulares debía ser láica","sólo esta podría otorgar las concesiones para su explotación  a los extranjeros, siempre y cuando renunciaran a la protección de sus gobiernos",4,,,9
+133,"Periodo de 1928 y 1934, en el que Plutarco Elías Calles controló a la política mexicana y manipuló a los presidentes en turno ",Decena trágica,Plan Sexenal,Callismo,Maximato,4,,,9
+134,Principios que caracterizaron al Plan Sexenal,Nacionalismo agrario y obrero para fortalecer al mando presidencial ,Populismo totalitario a favor del jefe máximo de la Revolución ,Política de extrema derecha en torno al Partido de Estado,Gobierno de masas con apoyo de potencias extranjeras en México ,1,,,9
+135,Los movimientos huelguísticos durante el cardenismo lograron el aumento de los salarios cuyo impacto en la economía nacional fue:,"Reactivar el mercado interno
+","Incrementar las utilidades del capital
+",Concentrar la riqueza en pocas manos,"Sustituir las importaciones de manufacturas
+",1,,,9
+136,El cremiento económico logrado por el país desde el fin de la Segunda Guerra Mundial hasta la década de los setentas es conocido como:,Milagro mexicano ,Desarrollo industrial,Desarrollo estabilizador,Prosperidad económica,1,,,9
+137,"De los siguientes acontecimientos, ¿cuáles hacen referencia al gobierno de Adolfo López Mateos?","I, III y VI","II, III y IV","II, IV y V","IV, V y VI",1,8,,9
+138,Fenómeno de gran auge económico que vivió México de 1952 a 1970,Nacionalismo económico,Desarrollo estabilizador,Reconstrución Nacional,Nacionalismo revolucionario,2,,,9
+139,"De los siguientes acontecimientos, clasifica los que correspondan al gobierno de Gustavo Díaz Ordaz (I) y los que correspondan al gobierno de Luis Echeverría (II) ","I: c, d, e - II: a, b, f","I: a, c, e - II: a, c, e","I: b, d, d - II: a, c, e","I: d, e, f - II: a, b, c",2,9,,9
+140,¿Cuáles eras las clases sociales en la Nueva España?,"Burgueses, proletariado y clero ","Patricios, plebeyos, y esclavos","Protestantes, católicos y puritanos","Peninsulares, criollos y mestizos",4,,,9
+141,Una consecuencia económica de las Reformas Borbónicas a la Nueva España fue:,"Facilitar el comercio entre España y la Nueva España para lograr una mayor recaudación de la Corona española, quitándole privilegios a las autoridades locales
+",Acrecentar el poder político local y disminuir la explotación mineral ,Dar mayor autonomía a las colonias españolas y facilitar el comercio con Inglaterra,,1,,,9
+142,Causas internas de la Independencia,Pago justo de impuestos por parte de los peninsulares,Restricción de la participación política de los criollos ,Consolidación de poder político de los indígenas,Declaración de los Derechos del Hombre,2,,,9
+143,"En los primeros años del México independiente, ¿qué grupos influyeron en el gobierno del país?",Ayuntamientos ,Logias masónicas,Sociedades mutualistas,Partidos políticos,3,,,9
+144,"Territorios que fueron cedidos por Méxio tras la guerra contra Estados Unidos:
+","Baja California, Texas y La Mesilla","Nuevo México, La Mesilla y Alta California","Texas, Nuevo México y Arizona","Nuevo México, Alta California y Arizona ",4,,,9
+145,"El 1º de Marzo de 1854 fue promulgado el Plan de Ayutla, el cual tuvo como objetivo:",Dar fin a la Intervención Francesa,Apoyar el intervencionismo estadounidense,Derrocar al gobierno de Santa Ana,"Detener el expansionismo estadounidense
+",3,,,9
+146,Una de las razones por las cuales se debilitó el Imperio de Maximiliano fue:,Napoleón II retiró a su ejercito para conquistar a España,Descontento de los conservadores por el establecimeinto de medidas liberales,Perdida de apoyo del emperador Austrohúngaro,Establecimiento de medidas contra los indígenas,2,,,9
+147,Algunos objetivos del gobierno liberal en México fueron:,El establecimiento del Registro Civil y Estado laico ,El mantenimiento de fueros eclesiásticos y militares,El combate al intervencionismo norteamericano y apoyo a las potencias europeas,La creación de cooperativas autónomas y reparto agrario ,1,,,9
+148,El periodo conocido como Maximato en que el poder se ejercia tras la presidencia fue dirigido por:,Lázaro Cárdenas,Álvaro Obregón ,Emilio Portes Gil,Plutarco Elías Calles,4,,,9
+149,Algunas características del gobierno de Lázaro Cárdenas fueron:,"I, IV, V","V, III, I","I, IV, II","III, IV, V",1,18,,9
+150,El pacto migratorio firmado en 1941 entre EU y México tenía por objetivo:,Evitar la emigración ilegal,Apoyar la mano de obra barata a la industria norteamericana,Combatir el comercio informal de armas,Contribuir con soldados mexicanos a los Aliados,2,"
+",,9
+151,Algunos acontecimientos pertenecientes al gobierno de Adolfo López Mateos son:,"II, III, IV","I, III, VI","V, III, IV","I, III, V",2,19,,9
+152,Características del gobierno de Gustavo Díaz Ordaz,"I, II, III","I, II, V","I, II, IV","III, IV, V",3,20,,9
+153,Un crecimiento económico sostenido de más de 7% anual y la construcción de infraestructura y la sustitución de importaciones fueron hechos que se conocieron como :,Unidad nacional ,Plan Sexenal,Desarrollo estabilizador,Presidencialismo ,3,,,9
+154,Son características del gobierno de José López Portillo,"Rompimiento de relaciones con la URSS y creación del CONACyT
+",Devaluación del peso y firma del TLC,Nacionalización de la banca y el establecimiento del IVA,Guerra Sucia y Tratados de Tlatelolco,3,,,9
+155,Presidente con el que comenzo el neoliberalismo:,Carlos Salinas de Gortari,Miguel de la Madrid,José López Portillo,Gustavo Díaz Ordaz,2,,,9
+156,¿Con qué presidente se intensificó el neoliberalismo en México?,Carlos Salinas de Gortari,Miguel de la Madrid,José López Portillo,Gustavo Díaz Ordaz,1,,,9
+157,"¿Qué función de la lenguna predomina en la siguiente proposición? 
+ ",Metalingüística,Apelativa,Referencial,Sintomática,3,,1,7
+158,Identifica el enunciado en el que se usa la función poética de la lengua,Sentir que es un soplo la vida,Fue caminando sobre la colina,El niño era muy pobre,Algunas vecesse sentía triste,1,,,7
+159,Selecciona el fragmento en que predomina la naracción:,"el perico australiano tiene un plumaje, entre otros colores, azul, negro, blanco y, a veces, gris. su cara es chatita, y su pico, como la cáscara de un cacahuate","¡No te quedes atrás! ¡Tenemos la mejor tecnología en celulares!
+","Un canario amarillo y un perico azul contemplaban la libertad a través de una reja dorada. Todos los días, se mecían con falsa tranquilidad en el columpio de plástico colocado al centro de la prisión. Por las mañanas cantaban, por las tardes comían y por las noches dormían con esperanza de libertad.",Las aves son animales inteligentes. Protegen a sus hijos con verdadera dedicación y pueden crear fuertes lazos afectivos con humanos. ,3,,,7
+160,¿Qué modo discursivo predomina en el siguiente ejemplo? ,Enumeración,Descripción ,Argumentación,Narración,3,,2,7
+161,¿Cuál  es el núcleo del predicado de la siguiente oración? ,bullying,Las campañas contra el bullying,permitirán,crear,3,,3,7
+162,El enunciado escrito entre guiones largos también puede escribirse entre... ,comillas,paréntesis,puntos y comas,guiones cortos,2,,4,7
+163,"De los siguientes párrafos, ¿cuál tiene mejor redacción?",Nadie sabe quién defendió ese argumento tan tonto que sin embargo fue tomado como cierto,"Nadie sabe quién defendió ese argumento tanto que, sin embargo, fue tomado como cierto",Nadie sabe quién defendió ese argumento tan tonto que mas sin embargo fue tomado como cierto ,"Pero, sin embargo, nadie sabe quién defendió ese argumento tan tonto  que fue tomado como cierto",2,,,7
+164,Selecciona el enunciado que tiene ortografía correcta,Hubo muchas desavenensias cuando se pretendió integrar a os advenedisos al Club de Leones,Hubo muchas dezavenencias cuando se pretendió integrar a los advenedizos al Club de los Leones,"Hubo muchas desavenenzias cuando se pretendió integrar a los advenedizos al Club de Leones
+",Hubo muchas desavenencias cuando se pretendió integrar a los advenedizos al Club de Leones,4,,,7
+165,¿A qué grupo de palabras pertenece la siguiente definición? ,Agudas,Graves,Esdrújulas,Sobreesdrújulas,2,,5,7
+166,Selecciona el sinónimo de la palabra en mayúsculas: PROLIFERACIÓN,Acumulación,Exageración,Exuberancia,Declaración,3,,,7
+167,Completa la analogía del siguiente enunciado: ,Parlamento,Compañía teatral,Obra de teatro,Director,3,,6,7
+168,¿Cuál de las siguientes palabras es antónimo de INTERINO?,Transitorio,Provisional,Paseante,Fijo,4,,,7
+169,¿Cuál de las siguientes palabras es antónimo de AFLUENCIA?,Exuberancia,Abundancia,Escasez,Demasía,3,,,7
+170,Selecciona el enunciado que presente un uso correcto de la h:,Mantener limia la abitación y consumir bebidas naturales que hidraten la piel son hábitos indispensables.,Mantener limpia la habitación y consumir bebidas natruales que hidraten la piel son hábitos indispensables,Mantener limpia la habitación y consubir bebidas naturales que idraten la piel son hábitos indispensables,Mantener limpia la abitación y consumir bebidas naturales que hidraten la piel son ábitos indispensables ,2,,,7
+171,Lee el siguiente párrafo: ,comillas,puntos y comas,paréntesis,puntos,3,,7,7
+172,En el enunciado: ,Metalingüística,Apelativa,Sintomática,Referencial,4,,8,7
+173,Elige la función de la lengua que predomina en el siguiente enunciado: Hombre-cohete y también golondrinas araña en vela que hila con luna su tela,Apelativa,Poética,Reflexiva,Referencial,2,,,7
+174,Selecciona la opción que corresponda al fragmento en que predomina la naracción,La más de 200 minificciones incluidas en esta antología son una muestra de la vitalidad de un género que cuenta ya con el prestigio de autores reconocidos y con el interés de los lectores especializados. ,Cuando iba el otro día en el tren me erguí de pronto feliz sobre mis dos patas y empecé a manotear de alegría y a invitar a todos a ver el paisaje y a contemplat el crepúsculo que estaba de lo más bien ,"¡Las mejores ofertas no sólo en diciembre sino todo el año! ¡Con nosotros, ganas siempre!",Los medios de comunicación se encargan de difundir los hechos importantes para la sociedad en la que vivimos,2,,,7
+175,¿Qué forma del discurso predomina en el siguiente párrafo? ,"Descripción
+",Naracción,Argumentación,Relación,3,,9,7
+176,"En el siguiente enunciado, determina la función de la palabra en mayúsculas: 
+",Sujeto,Modificador,Núcleo del sujeto,Complemento adnominal ,3,,10,7
+177,En el enunciado:,resolver preguntas,preguntas fundamentales,permitirá resolver,decodificación del genoma,3,,11,7
+178,"En el texto el enunciado entre guiones largos también puede escribirse entre: 
+",comillas,paréntesis,puntos y comas,guiones cortos,2,,12,7
+179,Elige el párrafo con la mejor redacción,Nadie sabe cómo se obtuvieron esas conclusiones débiles y que sin embargo fueron aceptadas,"Nadie sabe cómo se obtuvieron esas conclusiones débiles que, sin embargo, fueron aceptadas",Nadie sabe cómo se obtuvieron esas conclusiones débiles que mas sin embarho fueron aceptadas,"Sin embargo, no obstante, nadie sabe cómo se obtuvieron esas conclusiones débiles que fueron aceptadas",2,,,7
+180,"Sinónimos de ACUMULACIÓN
+",Exuberancia,Manifestación,Acopio,Promiscuidad,3,,,7
+181,Selecciona el enunciado que tiene ortografía correcta,El patriarca tuvo desavenencias con los advenedizos que se abstuvieron de las abluciones,El patriarca tuvo desavenencias con los advenedízos que se abstubieron de las abluciones,El patriarca tuvo desavenencias con los abdenedizos que se abstuvieron de las avluciones,El patriarca tuvo desabenencias con los advenedizos que se abstuvieron de las abluciones,1,,,7
+182,Selecciona el enunciado que tiene ortografía correcta,Un subrreino es cada uno de los grupos taxonómicos en que se divide el reino animal,El enrrejado que rodea la casa de los restauradores le da un aspecto muy sombrío ,En la sala de prensa el ambiente se enrrareció cuanod el actor comenzó a fumar,La empresa más conocida del país está en bancarrota y su dueño ha desaparecido ,4,,,7
+183,Escoge la opción que complemente adecuadamente la siguiente regla ortográfica: ,Grave - consonante,Esdrújula - cualquier letra,"Grave - n, s , a, e, i, o, u ","Aguda - a, e, i, o, u ",3,,13,7
+184,Escoge la opción co la estructura más comprensible,Laura es una estudiante ciega por lo que su madre tiene que leerle textos que en la biblioteca de su escuela no están traducidos al Braile. ,La madre de Laura le lee porque no están escritos en Braile textos de la biblioteca de su escuela porque está ciega.,Porque está ciega la madre de laura tiene que leerle libros que no están en Braile en la biblioteca de su escuela. ,Como en la biblioteca de su escuela no están traducidos en sistema Braile Laura que está ciefa tiene que leerle libros a su madre.,1,,,7
+185,Elige la opción que complete correctamente el siguiente texto:,c - s - c - sc - z - sc - s - c - z,s - c - c - sc - z - sc - s - c - z,c - s - c - sc - s - sc - c - z,c - s - c - sc - z - sc - s - c - s,1,,,7
+186,"El siguiente texto incluye un discruso expresivo, porque...","Ofrece a modo de instructivo la información necesaria para eleborar undocumento, a la vez que argumenta cada paso en el procedimiento",Describe la elaboración de estos documentos,Cuenta el origen de la tradición de entrega de este documento al solicitar empleo,Convence a candidatos y sustentantes para seguir elaborando estos documentos,1,,24,7
+187,Escoge la opción correcta,"Durante dos semanas el Lic. Zapata preparó, sin embargo fue vencido, pues las objeciones del abogado defensor fueron admitidas y sustentadas por el juez. ","Durante dos semanas el Lic. Zapata preparó el caso, más sin embargo fue vencido, pues las objeciones del abogado defensor fuero admitidas y sustentadas por el juez","Durante dos semans el Lic. Zapata preparó el caso, aunque fue vencido, pues las objeciones del abogado defensor fueron admitidas y sustentadas por el juez.","Durante dos semanas el Lic. zapata preparó el caso, por lo que fue vencido, pues las objeciones del abogado defensor fueron admitidas y sustentadas por el juez.",1,,,7
+188,"Selecciona la opción que contiene el discurso narrativo
+","Ciudad Lesbos en Mitilene, grande y hermosa. Pues está dividida por canales del mar, que penetra poco a poco, y está adornada por puentes de pulida y blanca piedra; creerías ver no una ciudad sino una isla. ","A cada son de la campana, un pájaro volaba: pájaros de ala inversa que mueren entre las tejas, donde ha caido la primera canción","Las mariposas que hoy vemos, ingrávidas, que se pueden posar en las flores, en la superficie de las aguas y hasta en las trémulas ramas del aire, no son otra cosa que una fracasada imagen de lo que el murciélago fue en otro tiempo: el ave más bella de la creación","Abrió la puerta que le llevó a una puerta más pequeña; y le llevó a una puerta más pequeña, y así fue abriendo puertas hasta llegar a una puerta diminuta como una gatera por la que se metió para encontrarse con una puerta pequeña que le llevó a una puerta más grande y así siguiño recorriendo un corredor infinito de puertas hasta que finalmente llegó a una pared. al otro lado se oía una sucesión de portazos.",4,,,7
+189,En el siguiente párrafo identifica los sinónimos de las palabras marcadas en negritas,"imaginagle, indeclinable","fecundable, afable","inexpresable, incomprensible","entendible, inaccesible",3,,25,7
+190,Músico es a orquesta como:,Actor es a teatro,Actor es a cine,Actor es a compañía teatral,Actor es a obra de teatro,3,,,7
+191,"En la siguiente frase, ¿qué función de la lengua predomina?",Metalingüística,Fática,Referencial,Apelativa,4,,26,7
+192,Indica cuál es la palabra escrita de forma correcta,compungido,desuzar,batacaso,efervecencia,1,,,7
+193,Identifica que función desempeña la palabra en mayúsculas,Objeto directo,Atributo,Complemento circunstancial,Objeto indirecto,3,,27,7
+194,En la siguiente oración identifica el objeto directo,todos,febrero ,sus propósitos,se,2,,28,7
+195,"¿Cómo se favorece la siguiente reacción?<lat> Na_{2}CO_{3(s)} \rightarrow  Na_{2}O + CO_{2(g)}
+</lat>",0ºC,50ºC,30ºC,70ºC,4,,,4
+196,¿Qué condiciones favorecen la siguiente reacción? <lat>CH_{4}+2O_{2}\rightarrow CO_{2}+2H_{2}O</lat>,10 atm,15 atm,20 atm,50 atm,4,,,4
+197,¿Cómo se favore la velocidad de una reacción?,"Más reactivo, más temperatura",Más reactivo y un catalizador,"Menos reactivo, más temperatura",Menos reactivo y un catalizador,2,,,4
+198,"¿De acuerdo con el principio de Le Chatelier, cómo se favorece la reacción? <lat>N_{2(g)}+O_{2(g)}\leftrightharpoons N_{2}O_{4(g)}</lat>
+",A mayor presión favorece a los reactivos,Ningún cambio de presión afecta,A mayor presión favorece a los profuctos,A menor presión favorece a los productos,3,,,4
+199,"¿Qué efecto tiene el aumento de reactivo y agregar un catalizador en una reacción química?
+",La inhibe,Disminuye su velocidad,Aumenta su velocidad,Aumenta energía de activación,3,,,4
+200,Se disminuye 1.8g de glucosa en 100 mL de agua. Calcula la molaridad si la masa molar de la glucosa es de 180 g/mol:,0.6 M,0.08 M,0.10 M,0.11 M,3,,,4
+201,¿Cómo se favorece la solubilidad de un soluto en un disolvente?,Bajando la presión,Aumentando la temperatura,Bajando la temperatura,Aumentando el disolvente,2,,,4
+202,Identifica cuál compuesto es una base:,<lat>H_{2}O_{2}</lat>,<lat>LiOH</lat>,<lat>CH_{3}-CH_{2}-H</lat>,<lat>HO-CH_{2}-CH_{2}-CH_{2}-OH</lat>,2,,,4
+203,"De las siguientes sustancias, ¿cuál es la base más fuerte?",KOH,HCl,<lat>NH_{3}</lat>,<lat>Na_{2}CO_{3}</lat>,1,,,4
+204,¿El ácido más fuerte que tiene una mayor ionización en el agua es?,<lat>H_{2}CO_{3}</lat>,<lat>H_{2}SO_{3}</lat>,HCl,<lat>CH_{3}-COOH</lat>,3,,,4
+205,"¿Cuál es la sustancia ácida?
+",<lat>H_{3}B</lat>,<lat>H_{2}SO_{4}</lat>,<lat>H_{2}O</lat>,<lat>H_{2}O_{2}</lat>,2,,,4
+206,¿Cuál es el ácido más fuerte por su capacidad de ionización?,Vinagre <lat>CH_{3}-COOH</lat>,<lat>HCl</lat>,<lat>H_{2}S</lat>,<lat>H_{3}P</lat>,2,,,4
+207,"De las siguientes reacciones, elige la opción que represente la reacción entre dióxido de carbono como hidróxido de bario:",<lat>CO_{2}+Ba(OH_{2})_{2}\rightarrow BaCO_{3}+H_{2}O</lat>,<lat>CO_{2}+Ba(OH)_{2}\rightarrow (BaCOH_{2})_{2}</lat>,<lat>CO_{2}+Ba(OH)_{2}\rightarrow BaCO_{3}+H_{2}O</lat>,<lat>CO_{2}+BaOH_{2}\rightarrow BaCO_{3}+H_{2}O</lat>,3,,,4
+208,¿Qué producto se obtiene al hacer reaccionar un ácido inorgánico y una base inorgánica?,Solo sal,Sal + agua,Óxido + sal,Éter + sal ,1,,,4
+209,"¿Por su capacidad de ionización, cómo se clasifica el <lat>CH_{3}-COOH</lat>?",Fuerte,Base,Débil,Anfótero,3,,,4
+210,"De las siguientes opciones, ¿cuáles son los ácidos más fuertes?",<lat>HCl - HNO_{3}</lat>,<lat>CH_{3}-COOH - HCl</lat>,CaH - HCl,<lat>HNO_{3} - CH_{3}-COOH</lat>,1,,,4
+211,¿A qué color cambia el papel tornasol cuando se somete a un ácido?,Azul,Rojo,Verde,Amarillo,2,,,4
+212,Identifica la reacción que produce una sal:,<lat>KOH+HCl\rightarrow KCl + H_{2}O</lat>,<lat>CH_{4}+2O_{2}\rightarrow CO_{2}+H_{2}O</lat>,<lat>2H_{2}+O_{2}\rightarrow 2H_{2}O</lat>,<lat> N_{2}+3H_{2}\rightarrow 2NH_{3}</lat>,1,,,4
+213,"Si el agua de mar tiene un pH de 8.6, ¿qué tipo de sustancia es?",Ácido,Base,Neutra,Mixta,2,,,4
+214,Cuando el papel tormasol toma un colo azul estamos hablando de:,Ácido,Base,Sal,Neutro,2,,,4
+215,Si un ácido inorgánico débil se mexcla con una base inorgánica débil y toma un color amarillo. ¿Cuál es el pH de la sustancia cuando le agregas un ácido y cambia a rojo en su punto de equivalencia?,4.8,4.4,2.8,6.4,4,16,,4
+216,"Es el número de protones y neutrones que presenta el antimonio (Sb, número atómico 51 y peso atómico 121.7)","51 p, 71 n","71 p, 51 n","122 p, 71 n ","130 p , 70 n ",1,,,4
+217,"Es una mezcla homogénea formada por iones de un ácido débil y su base conjugada, que evita cambios drásticos del pH",solución saturada de vinagre,"mezcla racémica
+",solución tampón o buffer,agua regia,3,,,4
+218,En la siguiente reacción química: <lat>C+HNO_{3}\rightarrow NO_{2}+CO_{2}+H_{2}O</lat>,el C se reduce,el C es un agente oxidante,el N se reduce,el N se oxida,3,,,4
+219,"Las enzimas son catalizadores de reacciones bioquímicas, estas sustancias son proteínas formadas por:",nucleótidos,carbohidratos,lípidos,aminoácidos,4,,,4
+220,"La unión entre dos elementos no metálicos con igual electronegatividad, formada por enlaces covalentes no polares se ejemplifica en el inciso:","Au, Ag y Pt","<lat>O_{2}, N_{2} y H_{2}</lat>","<lat>Cu_{2}, Ag_{2} y Fe_{2}</lat>","<lat>CO_{2}, PH_{3} y CH_{4}</lat>",2,,,4
+221,¿Cuál es la reacción química que representa mejor la acción de la lluvia ácida sobre el mármol?,<lat>H_{2}SO_{4}+CaCO_{3}\rightarrow CaSO_{4}+H_{2}O+CO_{2}</lat>,<lat>H_{2}CO_{3}+CaO\rightarrow CaCO_{3}+H_{2}O</lat>,<lat>HNO_{2}+H_{2}O\rightarrow HNO_{3}</lat>,<lat>HCl+CaCO_{3}\rightarrow CaCl_{2}+H_{2}CO_{3}</lat>,1,,,4
+222,"¿Cuál de los siguientes compuestos es un isómero del hexano?
+",2-metilpentano,"1-eti, 2-propilbutano","2,4,6-butano","2,2,4-trimetihexano",1,,,4
+223,"El carbonato de cálcio reacciona con el ácido clorhídrico para dar cloruro de calcio, dióxido de carbono y agua. ¿Cuál es la ecuación  ajustada correspondiente al proceso?",<lat>2CaCO_{3}+4HCl\rightarrow 2CaCl_{2}+CO_{2}+2H_{2}O</lat>,<lat>CaCO_{3}+2HCl\rightarrow 2CaCl_{2}+2CO_{2}+H_{2}O</lat>,<lat>CaCO_{3}+2HCl\rightarrow CaCl_{2}+CO_{2}+H_{2}O</lat>,<lat>2CaCO_{3}+2HCl\rightarrow 2CaCl_{2}+CO_{2}+H_{2}O</lat>,3,,,4
+224,"A la sustancia capaz de aumentar la velociad de una reacción, pero que no se consime durante esta y que puede ser recuperada al final, se le conoce como:",Anestésica,Catalizadora,Concentrada,Neutralizadora,2,,,4
+225,¿A qué presión se obtendrá la mayor masa de <lat>CO_{2}? C_{3}H_{8(g)}+5O_{2(g)}\rightarrow 3CO_{2(g)}+4H_{2}O_{(g)}</lat>,30 atm,20 atm,10 atm,40 atm,4,,,4
+226,"Si la masa molar del agua es de 18 g/mol y la del azúcar es de 342 g/mol, ¿cuáles serán las unidades de mol totales que se obtienen cuando se disuelve 3.42g de azúcar en 180g de agua?",01.01,10.01,10.1,11.0,2,,,4
+227,"A 70ºC la solubilidad del cloruro de potasio es 50g/ 100 <lat>cm^{3}</lat> de agua, el el laboratorio un estudiante pesa 75g/ 100 cm^{3} de agua de cloruro de potasio a temperatura de 70ºC por lo tanto:",Está saturada y le sobran 25g de cloruro de potasio que no se disuelve,No está saturada y le faltan 50g de cloruro de potasio para que se sature,Está saturada y le sobran 50g de cloruro de potasio que no se disuelven,La solucción no es saturada y le faltan 25g de cloruro de potasio para que se sature,1,,,4
+228,En la reacción de neutralización que se lleva a cabo a continuación: ,2,5,10,20,4,,20,4
+229,¿Cuál es la sustancia que se obtiene al hacer reaccionar quimicamente al ácido propanoico con el alcohol etílico?,etanoato de propilo,pentanoato de etilo,propanoato de etilo,anhídrico propanoico,3,,,4
+230,"Al igual que el aire, el petróleo es una mezcla de tipo...",homogénea,heterogénea,dispersa,dicomponente,1,,,4
+231,¿Cuál es un ejemplo de ácido fuerte?,H_{2}SO_{4},NH_{4},CH_{6}OH,CH_{3}COOH,1,,,4
+232,"Relación entre entropía, entalpía y energía libre de Gibbs",\Delta G=\Delta H+TdS,\Delta G=\Delta H-TdS,\Delta H=\Delta G+TdS,\Delta H=\Delta G-TdS,2,,,4
+233,¿Qué molécula presenta un grupo éter?,CH_{3}-O-CH_{3},CH_{3}-CH_{2}-OH,CH_{3}-CH_{2}-CH_{3},CH_{3}-OH-CH_{3},1,,,4
+234,Estructura del Ácido acético,CH_{4},"CH_{3}COH
+",CH_{3}COOH,CH_{3}-CH_{2}-CH_{2}-CH_{2}-OH,3,,,4
+235,"El ácido acético, ¿qué tipo de ácido es?",Débil,Fuerte,Diprótico,Monoprótico,1,,,4
+236,¿Cuál es la configuración electrónica del carbono?,"1s^{2}, 2s^{2}, 1p^{6}","1s^{2}, 2s^{2}, 1p^{5}","1s^{2}, 2s^{2}, 1p^{2}","1s^{2}, 2s^{2}, 1p^{3}",3,,,4
+237,"A partir de la configuración electrónica del carbono, indica en que familia está y en qué periodo se encuentra:","Periodo 3, familia IVA","Periodo 2, familia IIIA","Periodo 2, familia IVA","Periodo II, familia IVB",3,,,4
+238,Cuando un cubo de hielo se derritem ¿qué tipo de cambio ocurre?,Químico,Físico,Ningún cambio,Molecular,2,,,4
+239,"Cuando el núcleo de un átomo se separa, ocurre una:",Fusión,Fisión,Ionización,Oxidación ,2,,,4
+240,"Es un ejemplo de alcano:
+",CH\equiv CH,CH_{3}CH_{2}CH_{3},CH_{2}= CH_{2},CH_{3}CHO,2,,,4
+241,¿Cuántos carbonos están presentes en la glucosa?,5,6,4,2,2,,,4
+242,Calcular la masa molar de CH_{3}COOH,58 g/mol,50 g/mol,84 g/mol,60 g/mol,4,,,4
+243,¿Cuáles son los componentes del aire?,"N, CO_{2}, CO, CFC's, O_{3}","N, O, Ar, CO_{2}, vapor de agua y gases nobles","N, O, CO_{2}","N, H, O, N, S",3,,,4
+244,"De acuerdo a los electrones de valencia del Cl, ¿qué tipo de orbital presenta?",s,p,d,f,2,,,4
+245,¿Cuál es uno de los productos de la reacción del mármol (carbonato de calcio) con lluvia ácida (H_{2}SO_{4})?,Ca(OH)_{2},CaCO_{3},CaSO_{4},CaI_{2},2,,,4
+246,"Los elementos de la familia VIA de la tabla periódica, ¿cuántos electrones presenta en su último nivel energético?",8,10,7,6,4,,,4
+247,Cómo se le considera a una disolución a temperatura constante si alcanza su máximo poder de disolución:,Saturada,Sobresaturada,Concentrada,Diluida,1,,,4
+248,"Numerosos blanqueadores para lavandería contienen hipoclorito de sodio o de calcio como ingrediente activo. El clorox, por ejemplo, contiene aproximadamente 52g de NaClO por litro de solución. ¿Cuál es la molaridad de esta solución?",0.70 M,0.85 M,0.50 M,0.58 M,1,,,4
+249,Concepto de electronegatividad,Energía necesaria para separa un electrón en su estado fundamental de un átomo,Capacidad que tiene un átomo para atraer un electrón,Capacidad que tiene un átomo para donar electrones,Energía liberada de un átomo para atraer un electrón ,2,,,4
+250,¿Qué es la glucosa?,Una  molécula de 5 carbonos,Una molécula de 6 carbonos,Una proteína,Un aminoácido de 6 carbonos,2,,,4
+251,Modelo de Thompson,Modelo de sistema planetario,Modelo de la esfera sólida,Modelo de budín de pasas,Modelo de orbitales energéticos,3,,,4
+252,Compuesto orgánico que termica OH,Cetona,"Éter
+",Ácido carboxílico,Alcohol,4,,,4
+253,Masa molecular de dicromato de postasio,294 g/mol,300 g/mol,283 g/mol,242 g/mol,1,,,4
+254,"Valencia de los siguientes elementos B, Cl, C, Li","3, 7, 4, 3","3, 4, 2, 2","3, 6, 4, 1","3, 7, 4, 1",4,,,4
+255,¿Cómo se identifica un ácido?,Por un ion H^{+},Por un ion OH^{-},Por su grado de disociación ,Por su número de carbonos,1,,,4
+256,Configuración electrónica del Ca:,"1s^{2}, 2s^{2},1p^{6},3s^{2},3p^{6},4s^{1}","1s^{2}, 2s^{2},1p^{6},3s^{2},3p^{6}","1s^{2}, 2s^{2},1p^{6},3s^{2},3p^{6},4s^{2}","1s^{2}, 2s^{2},1p^{6},3s^{2},3p^{5}",3,,,4
+257,"La construcción del conociemiento sobre el pasado es un proceso que implica la selección, análisis e interpretación de:",ideas políticas económicas y sociales,"fuentes escritas, gráficas y materiales","métodos huerísticos, hermenéuticos y positivistas","problemas dialécticos, empíricos y materialistas",2,,,8
+258,El historiador aborda su objeto de estudio por medio de:,el análisis de los instrumentos de trabajo ,los estudios previos sobre los acontecimientos,las fuentes directas e indirectas,la observación del objeto,3,,,8
+259,"En el ámbito político, la ilustración influyó en el establecimiento de un sistema denominado:",Sistema Feudarl ,Filosofía Ilustrada,Monarquía absoluta,Despotismo Ilustrado,4,,,8
+260,Algunas causas internas y externas de la independencia de las Trece Colonias fueron:,"Parlamento corto, Parlamento largo y Parlamento moderado","Estados generales, Asamblea Nacional y Asamblea Constituyente
+","Impuestos excesivos, la Ilustración y el apoyo de Francia","Ludismo, Cartismo y Socialismo ",3,,,8
+261,"Grupo social que durante los siglos XVIII y XIX ideó, emprendió y consumó los movimientos revolucionarios con el din de conseguir el poder político en sus respectivos países:",Burgueses,Obreros,Campesinos,Nobles,1,,,8
+262,Relaciona cada uno de los siguientes movimientos del siglo XIX con sus características,I: d - II: b - III: e - IV: a - V: c,I: a - II: d - III: b - IV: c - V: e,I: c - II: e - III: a - IV: d - V: b,I: b - II: a - III: c - IV: e - V: d,2,10,,8
+263,La diferencia entre el ludismo y el cartismo radica en que el primero:,"consiste en la destrucción de máquina por los obreros, y el segundo en la petición de reformas políticas al Parlamento","se caracterizaba por el espítiru de colaboración entre sus miembros, y el segundo por la defensa de la reforma electoral de 1836 en Inglaterra","consistía en avances científicos y tecnológicos, y el segundo en el envío de cartas con peticiones de obreros al Parlamento Inglés. ","pretendíavolver a las condiciones de producción artesanal, y el segundo defendía el derecho de voto burgués. ",1,,,8
+264,"A finales del siglo XVIII Inglaterra establecía igual que otras naciones su imperio colonial, desafilando a las viejas potencias. Entre sus posesiones estaba Canadá, India, Australia, Egipto y África del Sur. Este imperio estableció una nueva estructura político administrativa que fortalecía la vida de Inglaterra, creó protectorados y compañías. ¿A qué hace referencia el texto anterior?",Al Imperio Inglés,A la Revolución Industrial,"A que Inglaterra llevó su cultura a todo el mundo
+",A la descolonización,1,,,8
+265,Factores que originaron el capitalismo monopolista:,La inversión de capitales al interior de los países y los cambios tecnológicos en la agricultura y los transportes,"Los excedentes de mercancía y de capitales, así como la búsqueda de nuevos mercados para su venta e inversión.","El dominio colonia de continentes como el africano y el asiático, así como el predominio de sociedades anónimas para subsidiar industrias",La necesidad de poseer colonias para solucionar problemas de sobrepoblación y los efectos de la Revolución Industrial,1,,,8
+266,Relaciona las columnas de persoanjes y acontecimientos de la Primera Guerra Mundial,I: a - II: b - III: c - IV: d - V: e,I: d - II: c - III: b - IV: a - V: e,I: e - II: d - III: c - IV: b - V: a,I: b - II: e - III: a - IV: c - V: d,3,11,,8
+267,"¿Quién gobernó Rusia tras la abdicación del úlitmo zar, Nicolás II?
+",El Parlamento,Su hermano ,León Trotsky,Alejandro Kerensky,4,,,8
+268,Relaciona los tratados de paz que se firmaron al finalizar la Primera Guerran Mundial con los postulados que se establecieron en ellos,I: c - II: b - III: a - IV: d - V: e,I: a - II: c - III: d - IV: b - V: e, I: b - II: a - III: c - IV: e - V: d,I: d - II: e - III: b - IV: a - V: c,2,12,,8
+269,"Características comunes a los regímenes totalitarios de Italia, Alemania y Japón","Regimen de partido único y militarista, sentimiento nacionalista y política expansionista","Ideología socialista, supresión de las garantías individuales, simpatía con obreros y campesinos",Supremacía de la raza aria. Lucha contra el imperialismo estadounidense y búsqueda por conquistar el mundo,"Política basada en la propaganda, su gobierno tiene bases tecnológicas y economía basada en monopolios",1,,,8
+270,"El nacionalismo exacerbado, el imperialismo, el armamentismo y las alianzas con fines militares fueros causas de la:",Guerra Fría,Segunda Guerra Mundial,Guerra de los siete días,Crisis de los misiles,2,,,8
+271,"De los siguientes acontecimientos, ¿cuáles son las consecuencias de la Guerra Fría?","II, IV y V","I, II y IV","III, I y V","IV, III y II",2,,,8
+272,Elige cuáles fueron las consecuencias de la Segunda Guerra Mundial ,I y III,II y V,III y VI,I y IV,4,13,,8
+273,Durante la Guerra Fría el mundo se polarizó formando dos bloques. De la lisya de características que se mencionan a continuación elige cuáles corresponde a cada uno,"I: a, b, d - II: c, e","I: a, b, c - II: d, e","I: d, e  - II: a, b, c","I: b, c - II: a, d, e",1,14,,8
+274,"La construcción del muro de Berlín, la crisis de los misiles y la carrera armamentista acontecimientos que se desarrollaron en el periodo conocido como:",Revolución alemana,Globalización económica,Guerra Fría ,Desintegración de la Unión Soviética,3,,,8
+275,Naciones africanas que realizaron su independencia en la seguna mitad del siglo XX,India y Siria,Camboya y Laos,Libia e Irán,Congo y Argelia,4,,,8
+276,Entre las causas que provocaron la caída del bloque soviético se encuentran,la liberación de la economía y la construcción de Estados socialistas,las reformas de Gorbacho y el estancamiento de la producción,La centralización excesiva y la búsqueda de la identidad nacional ,Las reformas a la sociedad y la búsqueda de identidad nacional,2,,,8
+277,Aportación tecnológica del siglo XX que ha contribuido a incrementar la producción industrial,Biotecnología,Robotización,Clonación,Rotación de cultivos,2,,,8
+278,"La historia se encarga del estudio de acontecimientos con base en fuentes, mismas que interpreta y analiza. Estas pueden ser:","Hermenéuticas, positivistas y materlialistas","Escritas, materiales o gráficas","Económicas, sociales y políticas","Religiosas, culturales y económicas",2,,,8
+279,La ilustración se basa en el uso de la razón. Algunas características de este movimiento son:,"I, II, IV","II, III, V","III, IV, II","I, III, IV",2,22,,8
+280,Causas de la independencia de las trece colonias:,"Influencia de la Revolución francesa, Revolución gloriosa y la Ilustración","Ideas de la Ilustración, Guerra de los siete años, motín del té","Guerra de secesión, problemas antiesclavistas y asesinato de Abraham Lincoln ","Revolución gloriosa, Guerra de los treinta años e invasiones napoleónicas",2,,,8
+281,Causas de la Segunda Revolución Industrial ,Uso de petróleo y carbón ,Desempleo y problemas migratorios,Utilización de electricidad y petróleo ,Sobrepoblación y migración ,3,,,8
+282,"¿Qué características tuvieron en común la Unificación de Alemania y el ""Resurgimiento de Italia""?",Socialismo,Comunismo,"Nacionalismo
+",Marxismo,3,,,8
+283,Causas de la primera Guerra Mundial,Invasión de Alemania a Polonia y asesinato de Francisco Fernando,Asesinato del heredero al trono del imperio de Austria-Hungría,Conflictos étnicos en los Balcanes y Guerra Civil española,Rivalidad Franco-Germana y Tratado de Versalles,2,,,8
+284,¿Con qué terminó la Primera guerra Mundial,Tratados de Versalles,Tratados de Belavezha,Tratados de Saint Germain ,Tratados de Brest Litovsk,1,,,8
+285,¿Quién es el líder de la Revolución Bolchevique?,Joseph Stalin,León Trotsky,Alexander Kérensky,Vladimir Lenin,4,,,8
+286,"Características del Totalitarismo de Italia, Japón y Alemania ","Nacionaismo extremo, gobierno de partido único y militarismo","Superioridad aria, deseo de gobernar al mundo y políticas liberales","Defensa de la democracia, libertad de expresión y oposición al imperialismo estadounidense ","Combate al monopolio, restricciones comerciales y desmilitarización",1,,,8
+287,La Segunda Guerra Mundial estuvo dividida en dos etapas. Un acontecimiento significativo de la segunda fue:,Operación Barbarroja,Tratados de Versalles,Intervención de Estados Unidos,Anexión de Dánzig (Polonia) al III Reich,3,,,8
+288,Algunos acontecimientos ocurridos en el contexto de la Guerra Fría fueron:,"I, III, V","II, III, IV","V, III, II","I, III, IV",1,23,,8
+289,"El lider soviético Nikita Kurshov ordenó la instalación de bases militares en Cuba, a este hecho se le conoció como:",La desintegración de la Unión Soviética,La Revolución Cubana,La Crisis de los Misiles,La caída del Muro de Berlín ,3,,,8
+290,Algunas características de la globalización económica:,"I, II, IV, VI, VII","I, IV, V, VI, VII","II, III, IV, VI, VII","I, II, III, V, VI",2,24,,8
+291,"Herramienta tecnológica que ha tenido amplio desarrollo en los últimos tiempos, facilitando una acelerada industrialización:",Nanotecnología,Robotización,Biotecnología,Cambio en técnicas de irrigación,,,,8
+292,Lee la estrofa y contesta la pregunta: ,Metáfora,Antítesis,Metonimia,Sinécdoque,1,,14,6
+293,"¿Qué figura retórica representa la frase subrayada?
+",Elipsis,Metáfora,Paradoja,Comparación,2,,15,6
+294,Lee la siguiente oración: ,Poética,Emotiva,Apelativa,Referencial,3,,16,6
+295,En la siguiente estrofra:,El viento choca con los árboles por la tormenta que amenaza,Los álamos son el marco para el amor desesperado que siente,Los árboles del campo deflejan la profunda tristeza que le embarga,"El campo está quieto, silencioso y oscuro. El viento mueve los árboles",4,,17,6
+296,"El fragmento: ""le tomé su voz libre como el agua"", se refiere a una:",Metonimia,Sinécdoque,Comparación,Prosificación,3,,,6
+297,"¿De cuántas sílabas se comopone la métrica del verso: ""Yo tuve un hermano""'?
+",Seis,Siete,Cinco,Cuatro,1,,,6
+298,"A la naración en prosa, relativamente breve se le denomina:",Drama,Novela,Poesía,Cuento,4,,,6
+299,Selecciona de las siguientes descripciones la que se refeire a un texto dramático,"Historia subjetiva donde el narrador, habla de sus sentimientos personales",Historia donde se plantean sucesos y acciones en torno a uno o varios personajes,Conjunto de hazañas gloriosas que hablan de un héroe de la historia de un pueblo ,Relatos tradicionales que pasan de una genereación en generación y se basan en hechos históricos,2,,,6
+300,Constituye en el relato la parte que sucede inmediatamente después del momento culminante de la narración,Climax,Desenlace,Desarrollo,Nudo ,2,,,6
+301,Lee el siguiente enunciado: ,Núcleo del sujeto,Complemento predicativo,Complemento adnominal,Núcleo del predicado,4,,18,6
+302,Movimiento armónico que se encuentra en un poema,Verso,Aliteración,Rima,Ritmo ,4,,,6
+303,El tema central del siguiente fragmento es: ,el ocaso de la vida,antes  de la creación,la naturaleza del cielo,los elementos de la naturaleza,2,,19,6
+304,"Corriente literaria caracterizada por su objetivismo, imparcialidad, lenguaje preciso y descripción fiel al ambiente",Modernismo,"Romanticismo
+",Vanguardismo,Realismo,4,,,6
+305,¿A qué género pertenecen las obras literarias escritas a manera de diálogos?,Lírico,Épico,Prosa,Dramático,4,,,6
+306,Escritor peruano que alcanzó la fama en 1960 y en 2010 ganó el Premio Nobel de Literatura,Octavio Paz,Carlos Fuentes,"Mario Vargas Llosa
+",Gabriel García Márquez,3,,,6
+307,"El libro titulado Azul de Rúben Darío, publicado en 1888, pertenece al:",Realismo,"Romanticismo
+",Surrealismo,Modernismo ,4,,,6
+308,"En la literatura realista, es considerado el novelista español más importante del siglo XIX. La clase media y la burguesía tienen en él a un pintor inigualable. Entre sus obras se encuentran: Fortuna y Jacinta, Doña perfecta, Marianela, entre otras",José Zorrilla,Juan Valera,Gustavo A. Bécquer,"Benito Pérez Galdós
+",4,,,6
+309,"De las siguentes opciones, ¿cuál es ek cibceoti CORRECTO de corriente literaria?","Realismo: comenzó a mitad del siglo XIX, predominó la novela que reflejaba sucesos o costumbres de la época.","La literatura está dividida en género y subgéneros literarios, en los que destaca la narrativa, lírica y épica","Romanticismo: se desarrollo en el Siglo XIX, predominó la descripción, objetividad y el culto al arte grecolatino","Clasicismo: comenzó a la mitad del Siglo XIX, predominó el relato picaresco, fue analítico, racional y falto de sentimientos. Gabriel García Márquez es su máximo representante ",1,,,6
+310,Son algunas de las obras de Carlos Fuentes,"La tumba, Aurora, Terra nostra","Aura, La tierra pródiga, La región más transparente
+","Cristóbal Nonato, Las buenas conciencias, La tierra pródiga","Cristóbal Nonato, Las buenas conciencias, La región más transparente",4,,,6
+311,"Corriente literaria que surge durante la segunda mitad del siglo XIX, cuyos autores retaltan el mundo que les rodea a manera de experimentadores, se interesa por el presente, por los problemas socuales y se apoyan en el método científico ",Surrealismo,Naturalismo,Romanticismo ,Neoclasicismo ,2,,,6
+312,Movimiento poético latinoamericano inspirado en el parnasianismo y el simbolismo ,Dadaísmo,Surrealismo ,Modernismo ,"Romanticismo 
+",3,,,6
+313,"Escritor colombiano, ganador al Premio Nobel de Literatura en 1982. También es autor de la novela Cien años de soledad. ",Octavio Paz,Julio Cortázar,"Mario Vargas Llosa
+",Gabriel García Márquez,4,,,6
+314,"Ignacio Manuel Altamirano es un escritor mexicano nacido en Tixtla, Guerrero, es auto de Clemencia, El Zarco, Navidad en las montañas, entre otras. Una de las características que lo distingue es...",querer superar el arte europeo,exaltar la herencia cultural española,defender la organización política monárquica en México,revalorar el pensamiento liberal en voz de sus personajes,4,,,6
+315,"¿Quién fue el autor de Madame Bovary?
+",Edgar Allan Poe,Gustave Flaubert,"Mario Vargas Llosa
+","Benito Pérez Galdós
+",2,,,6
+316,Selecciona la opción que considera a los representantes del Realismo,"Mary Shelley, Gustavo A. Bécquer, Edgar Allan Poe","Mabuel Gutierrez Nájera, Manuel Acuña, Rubén Darío","Alejandro Dumas, Émile Zola, Manuel Gutierrez Nájera","Benito Pérez Galdós
+, Honorato de Balzac, Ángel del Campo",4,,,6
+317,"Edgar Allan Poe y Gustavo Adolfo Bécquer pertenece a la corriente literaria...
+",Naturalismo,Costumbrismo,Renacimiento,"Romanticismo 
+",4,,,6
+318,"Da la renocación de la lírica hispanoamericana del sigo XX. El premio Nobel de Literatura de 1990, mexicano",Octavio Paz,Carlos Fuentes,Juan José Arreola,José Emilio Pacheco,1,,,6
+319,El movimiento literario latinoamericano que enarbola la bandera de libertad hacia la belleza es el:,Romanticismo,Clasicismo,Modernismo ,Dadaismo ,1,,,6
+320,"La comedia humana, obra que incluye varias novelas, fue escrita por:",Stendhal,Zoia,Balzac,Dickens,3,,,6
+321,La paráfrasis es un proceso a partir del cual:,"comprendes e interpretas un texto diciendo lo mismo, pero con otras palabras",haces una síntesis de las ideas más importantes utilizando el vocabulaio del texto,explicas un texto e incorporas tu punto de vista sobre los puntos en los que coincides,revisas los aspectos sustanciales del texto y los explicas retóricamente sin cambiar los términos del texto original,1,,,6
+322,¿Cuál de los siguientes titulares de periódicos muestra una visión imparcial de una noticia?,"""Copetes y gel atizan el debate""","""Mueren cinco niños al desplomarse muro en China""","""Medieval, crítica de Iglesia a matrimonios gay: Ebrard""","""Zafarrancho entre PRI y PAN acaba en vituperios a Calderón""",2,,,6
+323,"Con los datos: ""Armando Ayala Anguiano, Historia esencial de México, tomo 6, ed. Contenido, México 2003"", se puede elaborar una ficha:",bibliográfica,hemerográfica,de cita textual ,de análisis literal,1,,,6
+324,"¿Qué elemento falta en la siguiente ficha hemerográfica"" Chelico, Hernández José, ""Influenza llega a México"", en La Jornada, sección ""Capital"", año II, Nueva época, num. 32, p. 6",Título del artículo,Nombre de la publicación,Año y número,Lugar y fecha,4,,,6
+325,Relaciona los siguientes tipos de fichas con sus ejemplos ,I: b - II: a - III: d - IV: c,I: a - II: c - III: b - IV: d,I: d - II: b - III: a - IV: c,I: c - II: a - III: b - IV: d,1,15,,6
+326,Corriente latinoamericana poética nacida del Simbolismo y Paranasianismo francés,Modernismo,"Romanticismo
+",Realismo,Surrealismo,1,,,6
+327,En la ficha textual se debe de:,"Referir la idea textual de algún autor, que se deberá de escribir entre comillas y mencionar la fuente
+",Referir las ideas más importantes de algún texto escrito por otro autor. Se debe incluir en ella los datos de fuente,Referir las opiniones particulares acerca de la fuente a la que se refiere en una investigación,Referir la explicación personal acerca de algún tema expuesto por otro autor,1,,,6
+328,"Tema, obra, autor, página referida y cuerpo entre comillas, son datos de una ficha de:",de Cita Textual,"de Resumen
+","de Sintesis
+","de Paráfrasis
+",1,,,6
+329,Características del Realismo,"Por medio de la objetividad intenta hacer un retrato de la realidad. En el estilo son faltos de adorno, muy descriptivos y concretos",Por medio de la subjetividad intenta exponer los sentimientos de manera exagerada. su estilo es libre e innovador.,Por medio del exceso de adornos los autores exponen la belleza de las cosas triviales,"Por medio de mezcla de recursos, corrientes y géneros, los autores exaltan la belleza del mundo",1,,,6
+330,Características de la Ficha de Comentario,Expone las opiniones personales sobre la fuente de investigación,En ella se transcribe una máxima o frase célebre,Menciona los datos más importantes de una investigación,Menciona abreviando el contenido del texto fuente,1,,,6
+331,La editorial de un texto periodistico pertenece al género,de opinión,periodistico,híbrido,informativo,1,,,6
+332,"Autor, título de la obra, lugar y fecha de publicación, volumen, año y número, son datos de una ficha:",Hemerográfica,Bibliográfica,de Síntesis,de Trabajo,1,,,6
+333,"Corriente de Vanguardia nacida en Francia; caracterizada por negar todo, olvidar todo",Dadaísmo,Surrealismo ,Modernismo ,Realismo,1,,,6
+334,Corriente de Vanguardia naciada en Frnacia caracterizada por expresar mundos oníricos,Surrealismo,Dadaísmo,Modernismo ,Realismo,1,,,6
+335,Identifica la figura literaria en el siguiente texto:,Metáfora,Comparación,"Hipérbole
+",Sinestesia,1,,21,6
+336,Características del género épico,"Nacido en Grecia clásica, por medio de él el autor narra una historia y en el que conocemos sus opiniones. Puede estar escrito en verso o prosa",Por medio de este género el autor expone sus sentimientos. Regularmente está escrito en versos,Género en el que conocemos las ideas del autor de manera indirecta (por la voz de los personajes) y presenta un conflicto para su representación,Género menor en el que el autor cuenta una historia apoyándose de varias lineas argumentativas,1,,,6
+337,"¿A qué género literario pertenece el siguiente texto?
+",Épico,Lírico,Dramático,Prosa,1,,22,6
+338,Características del género lírico,Por medio de este género el autor expone sus sentimientos. Regularmente está escrito en verso. ,"Nacido en Grecia clásica, por medio de él el autor narra una historia y en el que conocemos sus opiniones. Puede estar escrito en verso o prosa",Género en el que conocemos las ideas del autor de manera indirecta (por la voz de los personajes) y presenta un conflicto para su representación,Género menor en el que el autor cuenta una historia apoyándose de varias lineas argumentativas,1,,,6
+339,Identifica cuál de las siguientes características pertenece a la comedia,Una narrativa fatalista,Una temática épica,"Desgracia del héroe
+",Un tono jocoso,4,,,6
+340,"Por su modo de expresión, ¿a qué género literario pertenece el siguiente texto?",Narración,Descriptivo,Lírico,Expositivo,3,,23,6
+341,Desarrolla el siguiente binomio: <lat>(m-n)^{3} </lat>,<lat>m^{3}+3m^{2}n+3mn^{2}-n^{3}</lat>,<lat>m^{3}-3m^{2}n+3mn^{2}+n^{3}</lat>,<lat>m^{3}-3m^{2}n+3mn^{2}-n^{3}</lat>,<lat>m^{3}+3m^{2}n+3mn^{2}+n^{3}</lat>,3,,,2
+342,La solución de la ecuación<lat>\frac{1}{x}-\frac{1}{3} = \frac{2}{x}+\frac{1}{4}</lat> es:,<lat>\frac{12}{7}</lat>,<lat>-\frac{7}{12}</lat>,<lat>\frac{7}{12}</lat>,<lat>-\frac{12}{7}</lat>,4,,,2
+343,Al resolver la ecuación <lat>5(x+2)+x=2(x-1)</lat> el valor de la variable es:,x= 3,x= -3,"x= 2
+",x= -2,2,,,2
+344,Al desarrollar el siguiente binomio <lat>(x-y)^{2}</lat> queda: ,<lat>x^{2}+y^{2}</lat>,<lat>x^{2}-y^{2}</lat>,<lat>x^{2}-2xy+y^{2}</lat>,<lat>-x^{2}+y^{2}</lat>,3,,,2
+345,Al derivar la función <lat>f(x)=x^{2}</lat> resulta: ,<lat>x^{2}</lat>,2x,<lat>\frac{x^{3}}{3}</lat>,<lat>x^{3}</lat>,2,,,2
+346,"¿Cuál es la distancia entre los puntos A(2,2) y B(3,-2)?",<lat>\sqrt{17}</lat>,<lat>\sqrt{10}</lat>,<lat>\sqrt{8}</lat>,<lat>2\sqrt{17}</lat>,1,,,2
+347,¿Dónde se encuentra la asíntota de la función <lat>f(x)=ln(x-1)</lat>?,"x= 1
+",<lat>x=\frac{1}{2}</lat>,<lat>x=-\frac{1}{2}</lat>,<lat>x=-1</lat>,1,,,2
+348,Una integral equivalente a la integral <lat>\int kf(x)dx</lat> es:,<lat>\frac{1}{k}\int f(x)dx</lat>,<lat>k\int f(x)dx</lat>,<lat>\frac{k^{2}}{2}\int f(x)dx</lat>,<lat>\frac{1}{k^{2}}\int f(x)dx</lat>,2,,,2
+349,¿Cuál son las derivadas de <lat>f(x)senx</lat> y de <lat>f(x)cosx</lat>?,<lat>{f}'(x)=cosx</lat> y <lat>{f}'(x)= -senx</lat>,<lat>{f}'(x)= -cosx</lat> y <lat>{f}'(x)= -senx</lat>,<lat>{f}'(x)=cosx</lat> y <lat>{f}'(x)= senx</lat>,<lat>{f}'(x)= -cosx</lat> y <lat>{f}'(x)= senx</lat>,1,,,2
+350,La derivada de <lat>{f}(x)=\frac{1}{\sqrt{2-x}}</lat> es:,<lat>\frac{2}{\sqrt{2-x}}</lat>,<lat>\frac{2}{2\sqrt{2-x}}</lat>,<lat>\frac{1}{\frac{2\sqrt{2-x}^{3}}{1}}</lat>,<lat>-\frac{1}{2\sqrt{2-x}^{3}}</lat>,3,,,2
+351,El resultado de la integral <lat>\int 2xe^{x^{2}}</lat>,<lat>-e^{x^{2}}+c</lat>,<lat>2e^{x^{2}}+c</lat>,<lat>e^{x^{2}}+c</lat>,<lat>2xe^{x^{2}}+c</lat>,3,,,2
+352,60º es equivalente en radianes a ,,,,,4,,,2
+353,"Si y=-2x+b es ecuación de una recta, donde b es cualquier número real y el coeficiente de la variable independiente es idéntico al coeficiente de la x de otra rects, entonces las rectas son",Paralelas,Perpendiculares,Transversales,Tangentes,1,,,2
+354,Si el movimiento de una partícula esta descrito por la función <lat>s(t)=5t^{2}-20t</lat> en qué tiempo la velocidad es igual a cero,0 m/s,2 m/s,10 m/s,20 m/s,2,,,2
+355,Se tienen cinco bolsas de sal de 1.5 onzas cada una. Si se quieren repartir entre 15 personas. ¿Cuántos gramos le toca a cada persona? Datos: una onza equivale a 28.34 gr,14.15 grs,23.84 grs,10 grs,14.17 grs,4,,,2
+356,¿Qué significa que <lat>\lim_{x\rightarrow 2}\frac{7(x^{2}-2-5)}{6-2x}=\frac{9}{2}</lat>?,El límite es 2 cuando <lat>x\rightarrow \frac{9}{2}</lat>,El límite es <lat>\frac{9}{2}</lat> cuando <lat>x\rightarrow 2</lat>,El límite de la función vale siempre 2,El límite de la función vale siempre <lat>\frac{9}{2}</lat>,2,,,2
+357,La ecuación general de la circunferencia <lat>(x-2)+(y-1)^{2}=9</lat> es:,<lat>x^{2}+y^{2}-4x-2y-4=0</lat>,<lat>x^{2}+y^{2}-4x-2y+4=0</lat>,<lat>x^{2}+y^{2}+4x-2y-4=0</lat>,<lat>x^{2}+y^{2}+4x+2y+4=0</lat>,1,,,2
+358,Al desarrollar el binomio <lat>(x^{m}-y^{n})^{2}</lat> queda:,<lat>x^{2m}-2xy+y^{2n}</lat>,<lat>x^{2m}-2x^{m}y^{n}-y^{2n}</lat>,<lat>x^{2m}-2x^{m}y^{n}+y^{2n}</lat>,<lat>x^{2m}+2x^{m}y^{n}+y^{2n}</lat>,3,,,2
+359,Lugar geométrico donde todos los puntos equidistan a un punto fijo llamado centro es:,Parábola,Circunferencia,Elipse,Hipérbola,2,,,2
+360,Lugar geométrico donde su vértice equidistan a un punto dijo y a una directriz es:,Parábola,Circunferencia,Elipse,Hipérbola,1,,,2
+361,Lugar geométrico donde la adición de las distancias de un punto a otros dos puntos dijos es constante:,Parábola,Circunferencia,Elipse,Hipérbola,3,,,2
+362,Lugar geométrico donde el valor absoluto de la sustracción de distancias de un punto a otros dos puntos dijos es constante:,Parábola,Circunferencia,Elipse,Hipérbola,4,,,2
+363,¿Qué número satisface la siguiente desigualdad <lat>\frac{1}{x}+2< \frac{2}{x}+1</lat>?,1,<lat>\frac{1}{2}</lat>,-1,-2,2,,,2
+364,"Indica cuál es la distancia entre los puntos A(-1,-1) y B(-2,-2) es:",<lat>\sqrt{18}</lat>,<lat>\sqrt{6}</lat>,<lat>\sqrt{2}</lat>,<lat>\sqrt{9}</lat>,1,,,2
+365,¿Qué valores deben tener m y n para que la ecuación <lat>ax^{m}+bxy+cy^{n}</lat> sea cuadrática?,m= 1 y n= 2,"m=2 y n=1
+","m=1 y n=1
+","m=2 y n=2
+",4,,,2
+366,La <lat>\int x^{2}e^{x}dx</lat> es:,<lat>x^{2}e^{x}+C</lat>,<lat>e^{x}(x^{2}-2x+2)+C</lat>,<lat>e^{x}(x^{2}-2x-2)+C</lat>,<lat>e^{x}(x^{2}2x+2)+C</lat>,2,,,2
+367,"La pendiente que pasa por los puntos (-4,6) y (6,-8) es:",<lat>-\frac{5}{7}</lat>,<lat>\frac{7}{5}</lat>,<lat>-\frac{7}{5}</lat>,<lat>\frac{5}{7}</lat>,3,,,2
+368,Indica cuál es la ecuación de la hipérbola que tiene centro en el origen,<lat>x^{2}-2y^{2}-10=0</lat>,<lat>2x^{2}-3y^{2}-4x+2=0</lat>,<lat>5x^{2}-6y^{2}-6y-1=0</lat>,<lat>-3x^{2}+2y^{2}+5x-y+3=0</lat>,1,,,2
+369,El resultado de la integral <lat>\int 2xe^{x^{2}}</lat> es:,6x+2+C,<lat>x^{2}</lat>,<lat>6x^{3}+2x^{2}+C</lat>,<lat>\frac{x^{3}}{3}+\frac{x^{2}}{2}+C</lat>,2,,,2
+370,Si para los valores <lat>x_{1}< x_{2}< x_{3}</lat> se cumple que <lat>f(x_{1})> f(x_{2})> f(x_{3})</lat> entonces la función es del tipo:,Decreciente,Creciente,Constante,Inversa,1,,,2
+371,"El <lat>\lim_{x\rightarrow 2}\frac{7(x^{2}-2x+5)}{3} 
+</lat> es:",<lat>\frac{35}{3}</lat>,<lat>\frac{91}{3}</lat>,3,9,2,,,2
+372,¿Cuál es el límite de la función <lat>\lim_{x\rightarrow 2}\frac{3x}{2x}(x+1)</lat>?,<lat>-\frac{9}{2}</lat>,<lat>\frac{2}{9}</lat>,<lat>\frac{9}{2}</lat>,-<lat>\frac{2}{9}</lat>,3,,,2
+373,"¿Cuáles son las coordenadas del punto medio de los puntos (5,4) y (-2,6)?","<lat>\left ( \frac{7}{2},-1 \right )</lat>","<lat>\left ( 5, \frac{3}{2}\right )</lat>","<lat>\left ( \frac{3}{2}, 5 \right )</lat>","<lat>\left ( 1, -\frac{7}{2}\right )</lat>",3,,,2
+374,La derivada de la función <lat>2xe^{x}</lat>,<lat>2xe^{x}</lat>,<lat>2e^{x}</lat>,<lat>2e^{x}(x+1)</lat>,<lat>2e^{x}(x-1)</lat>,3,,,2
+375,"¿Qué ecuación repesenta la circunferencia con centro en el origen y pasa por el punto (3,2)?",<lat>x^{2}+y^{2}-13=0</lat>,<lat>x^{2}+y^{2}+13=0</lat>,<lat>x^{2}+y^{2}-\sqrt{13}=0</lat>,<lat>x^{2}+y^{2}+\sqrt{13}=0</lat>,1,,,2

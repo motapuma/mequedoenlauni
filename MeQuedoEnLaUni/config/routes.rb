@@ -1,9 +1,12 @@
 MeQuedoEnLaUni::Application.routes.draw do
+  #devise_for :users
+  devise_for :users, :controllers => { :omniauth_callbacks => "users/omniauth_callbacks" }
+
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
   # You can have the root of your site routed with "root"
-  root 'questions#start'
+  root 'multiple_option_questions#start'
 
   # Example of regular route:
   #   get 'products/:id' => 'catalog#view'
@@ -12,7 +15,7 @@ MeQuedoEnLaUni::Application.routes.draw do
   #   get 'products/:id/purchase' => 'catalog#purchase', as: :purchase
 
   # Example resource route (maps HTTP verbs to controller actions automatically):
-  resources :questions
+  resources :multiple_option_questions
 
   # Example resource route with options:
   #   resources :products do
@@ -55,7 +58,7 @@ MeQuedoEnLaUni::Application.routes.draw do
   #   end
   scope "v1" do
     scope "/questions" do
-      post '/checkAnswer' => 'questions#check_answer'
+      post '/checkAnswer' => 'multiple_option_questions#check_answer'
     end
   end
 
