@@ -14,6 +14,44 @@
 				<small class="error">Olvidaste escribir la Pregunta</small>
 			</div>
 			<div class="row">
+				<input id="parrafoCB" type="checkbox"><label for="parrafoCB">Parrafo</label>
+				 <div class="row hide parrafoDiv">
+				 	<textarea placeholder="Parrafo"></textarea>
+				 </div>
+			</div>	
+			<div class="row">
+				<input id="tableCB" type="checkbox"><label for="tableCB">Tabla</label>
+				 <div class="row hide tableDiv">
+				 	<table id="questionTable">
+				 		<tr>
+				 			<td><input type="text"/></td>
+				 			<td><input type="text"/></td>
+				 		</tr>
+				 		<tr>
+				 			<td><input type="text"/></td>
+				 			<td><input type="text"/></td>
+				 		</tr>
+				 	</table>
+				 	<div class="row">
+				 		<div class="medium-6 columns">
+					 		<button id="addColumn" class="success button fitWidth">Agregar <br/> Columna</button>
+					 	</div>
+					 	<div class="medium-6 columns">	
+					 		<button id="eraseColumn" class="alert button fitWidth">Borrar <br/> Columna</button>
+					 	</div>
+					</div>
+					<div class="row">
+						<div class="medium-6 columns">
+				 			<button id="addRow" class="success button fitWidth">Agregar <br/> Fila</button>
+				 		</div>
+				 		<div class="medium-6 columns">
+				 			<button id="eraseRow" class="alert button fitWidth">Borrar <br/> Fila</button>
+				 		</div>
+				 	</div>
+				 </div>
+			</div>
+
+			<div class="row">
 				<%= f.select :subject, Constants::UNAM_SUBJECTS.each_with_index.map{|ele,i| [ele,i]},prompt:"Tema",required:'' %>
 				<small class="error">Eligé el tema</small>
 			</div>
